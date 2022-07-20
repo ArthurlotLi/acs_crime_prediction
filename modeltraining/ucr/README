@@ -1,0 +1,15 @@
+======================================================
+Dataset/UCR
+======================================================
+All csv files from the FBI's UCR database, both single
+and compiled. These really shouldn't change. 
+
+Notes:
+To undergo cells and fill with duplicate values:
+https://www.extendoffice.com/documents/excel/1139-excel-unmerge-cells-and-fill.html
+
+Select all values below a row
+https://exceljet.net/keyboard-shortcuts/extend-the-selection-to-the-last-cell-down
+
+To jump values
+CMD + arrow

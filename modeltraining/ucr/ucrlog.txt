@@ -1,0 +1,1830 @@
+ucrcompilation.py beginning to process csv...
+   Dataframe processed!
+Formatting data...
+      [Warning] Ignoring Andalusia2, ALABAMA, population 8946.0 with violent 24.0 and property nan
+      [Warning] Ignoring Anniston2, ALABAMA, population 23703.0 with violent nan and property 2038.0
+      [Warning] Ignoring Clanton2, ALABAMA, population 9109.0 with violent 47.0 and property nan
+      [Warning] Ignoring Daleville2, ALABAMA, population 4561.0 with violent 17.0 and property nan
+      [Warning] Ignoring Enterprise3, ALABAMA, population 26649.0 with violent 124.0 and property nan
+      [Warning] Ignoring Eufaula2, ALABAMA, population 14709.0 with violent 19.0 and property nan
+      [Warning] Ignoring Florence2, ALABAMA, population 38643.0 with violent nan and property nan
+      [Warning] Ignoring Guntersville2, ALABAMA, population 8775.0 with violent 34.0 and property nan
+      [Warning] Ignoring Jasper2, ALABAMA, population 14138.0 with violent 72.0 and property nan
+      [Warning] Ignoring Montevallo2, ALABAMA, population 6657.0 with violent 15.0 and property nan
+      [Warning] Ignoring Moody2, ALABAMA, population 14726.0 with violent 2.0 and property nan
+      [Warning] Ignoring Orange Beach2, ALABAMA, population 6575.0 with violent 6.0 and property nan
+      [Warning] Ignoring Oxford2, ALABAMA, population 21171.0 with violent nan and property 1242.0
+      [Warning] Ignoring Reform2, ALABAMA, population 1751.0 with violent 13.0 and property nan
+      [Warning] Ignoring Riverside3, ALABAMA, population 2146.0 with violent 4.0 and property nan
+      [Warning] Ignoring Troy3, ALABAMA, population 15395.0 with violent nan and property nan
+      [Warning] Ignoring Tuscumbia3, ALABAMA, population 8490.0 with violent nan and property nan
+      [Warning] Ignoring Winfield2, ALABAMA, population 4573.0 with violent 13.0 and property nan
+   Processed ALABAMA for year 2010!
+      [Warning] Ignoring Wasilla6, ALASKA, population 11471.0 with violent nan and property 326.0
+   Processed ALASKA for year 2010!
+      [Warning] Ignoring Tucson6, ARIZONA, population 527107.0 with violent 3331.0 and property nan
+   Processed ARIZONA for year 2010!
+      [Warning] Ignoring Rogers3, ARKANSAS, population 61417.0 with violent 219.0 and property nan
+   Processed ARKANSAS for year 2010!
+   Processed CALIFORNIA for year 2010!
+      [Warning] Ignoring Thornton6, COLORADO, population 119989.0 with violent nan and property 3625.0
+   Processed COLORADO for year 2010!
+   Processed CONNECTICUT for year 2010!
+   Processed DELAWARE for year 2010!
+   Processed DISTRICT OF COLUMBIA for year 2010!
+   Processed FLORIDA for year 2010!
+      [Warning] Ignoring McCaysville3, GEORGIA, population 957.0 with violent 2.0 and property nan
+   Processed GEORGIA for year 2010!
+   Processed HAWAII for year 2010!
+   Processed IDAHO for year 2010!
+      [Warning] Ignoring Chicago7, ILLINOIS5, population 2833649.0 with violent nan and property 120045.0
+   Processed ILLINOIS5 for year 2010!
+      [Warning] Ignoring Shelbyville2, INDIANA, population 18797.0 with violent 8.0 and property nan
+   Processed INDIANA for year 2010!
+      [Warning] Ignoring Muscatine2, IOWA, population 22866.0 with violent 114.0 and property nan
+   Processed IOWA for year 2010!
+   Processed KANSAS for year 2010!
+   Processed KENTUCKY for year 2010!
+      [Warning] Ignoring Gonzales6, LOUISIANA, population 9738.0 with violent 9.0 and property nan
+   Processed LOUISIANA for year 2010!
+   Processed MAINE for year 2010!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2010!
+      [Warning] Ignoring Billerica6, MASSACHUSETTS, population 39519.0 with violent nan and property 592.0
+      [Warning] Ignoring Hanson6, MASSACHUSETTS, population 10091.0 with violent nan and property 134.0
+      [Warning] Ignoring North Brookfield6, MASSACHUSETTS, population 5034.0 with violent nan and property 55.0
+      [Warning] Ignoring Plymouth6, MASSACHUSETTS, population 56751.0 with violent nan and property 1115.0
+      [Warning] Ignoring Shrewsbury6, MASSACHUSETTS, population 33796.0 with violent nan and property 316.0
+      [Warning] Ignoring Yarmouth6, MASSACHUSETTS, population 23498.0 with violent nan and property 813.0
+   Processed MASSACHUSETTS for year 2010!
+   Processed MICHIGAN for year 2010!
+      [Warning] Ignoring Albany, MINNESOTA7, population 2239.0 with violent nan and property 26.0
+      [Warning] Ignoring Albert Lea, MINNESOTA7, population 17304.0 with violent nan and property 410.0
+      [Warning] Ignoring Alexandria, MINNESOTA7, population 12003.0 with violent nan and property 363.0
+      [Warning] Ignoring Annandale, MINNESOTA7, population 3212.0 with violent nan and property 125.0
+      [Warning] Ignoring Anoka, MINNESOTA7, population 17323.0 with violent nan and property 748.0
+      [Warning] Ignoring Appleton, MINNESOTA7, population 2971.0 with violent nan and property 49.0
+      [Warning] Ignoring Apple Valley, MINNESOTA7, population 50579.0 with violent nan and property 1511.0
+      [Warning] Ignoring Arden Hills, MINNESOTA7, population 9860.0 with violent nan and property 151.0
+      [Warning] Ignoring Aurora, MINNESOTA7, population 1745.0 with violent nan and property 0.0
+      [Warning] Ignoring Austin, MINNESOTA7, population 22929.0 with violent nan and property 763.0
+      [Warning] Ignoring Avon, MINNESOTA7, population 1342.0 with violent nan and property 3.0
+      [Warning] Ignoring Babbitt, MINNESOTA7, population 1579.0 with violent nan and property 0.0
+      [Warning] Ignoring Baxter, MINNESOTA7, population 8748.0 with violent nan and property 297.0
+      [Warning] Ignoring Bayport, MINNESOTA7, population 3335.0 with violent nan and property 37.0
+      [Warning] Ignoring Becker, MINNESOTA7, population 4387.0 with violent nan and property 28.0
+      [Warning] Ignoring Belgrade, MINNESOTA7, population 720.0 with violent nan and property 0.0
+      [Warning] Ignoring Belle Plaine, MINNESOTA7, population 7244.0 with violent nan and property 160.0
+      [Warning] Ignoring Bemidji, MINNESOTA7, population 13911.0 with violent nan and property 982.0
+      [Warning] Ignoring Benson, MINNESOTA7, population 2930.0 with violent nan and property 61.0
+      [Warning] Ignoring Big Lake, MINNESOTA7, population 10240.0 with violent nan and property 188.0
+      [Warning] Ignoring Blackduck, MINNESOTA7, population 790.0 with violent nan and property 43.0
+      [Warning] Ignoring Blaine, MINNESOTA7, population 57561.0 with violent nan and property 1953.0
+      [Warning] Ignoring Bloomington, MINNESOTA7, population 82715.0 with violent nan and property 3175.0
+      [Warning] Ignoring Blue Earth, MINNESOTA7, population 3183.0 with violent nan and property 42.0
+      [Warning] Ignoring Brainerd, MINNESOTA7, population 13779.0 with violent nan and property 558.0
+      [Warning] Ignoring Breckenridge, MINNESOTA7, population 3151.0 with violent nan and property 49.0
+      [Warning] Ignoring Brooklyn Center, MINNESOTA7, population 27378.0 with violent nan and property 1363.0
+      [Warning] Ignoring Browns Valley, MINNESOTA7, population 579.0 with violent nan and property 0.0
+      [Warning] Ignoring Brownton, MINNESOTA7, population 777.0 with violent nan and property 4.0
+      [Warning] Ignoring Buffalo, MINNESOTA7, population 14881.0 with violent nan and property 383.0
+      [Warning] Ignoring Burnsville, MINNESOTA7, population 59028.0 with violent nan and property 0.0
+      [Warning] Ignoring Cambridge, MINNESOTA7, population 7986.0 with violent nan and property 264.0
+      [Warning] Ignoring Cannon Falls, MINNESOTA7, population 4050.0 with violent nan and property 200.0
+      [Warning] Ignoring Centennial Lakes, MINNESOTA7, population 11423.0 with violent nan and property 136.0
+      [Warning] Ignoring Champlin, MINNESOTA7, population 24139.0 with violent nan and property 510.0
+      [Warning] Ignoring Chaska, MINNESOTA7, population 25424.0 with violent nan and property 398.0
+      [Warning] Ignoring Chisholm, MINNESOTA7, population 4559.0 with violent nan and property 177.0
+      [Warning] Ignoring Cloquet, MINNESOTA7, population 11486.0 with violent nan and property 454.0
+      [Warning] Ignoring Cold Spring, MINNESOTA7, population 5108.0 with violent nan and property 66.0
+      [Warning] Ignoring Coon Rapids, MINNESOTA7, population 62419.0 with violent nan and property 2709.0
+      [Warning] Ignoring Corcoran, MINNESOTA7, population 5749.0 with violent nan and property 38.0
+      [Warning] Ignoring Cottage Grove, MINNESOTA7, population 34276.0 with violent nan and property 566.0
+      [Warning] Ignoring Crookston, MINNESOTA7, population 7829.0 with violent nan and property 68.0
+      [Warning] Ignoring Crosby, MINNESOTA7, population 2245.0 with violent nan and property 23.0
+      [Warning] Ignoring Crystal, MINNESOTA7, population 21753.0 with violent nan and property 715.0
+      [Warning] Ignoring Dawson, MINNESOTA7, population 1323.0 with violent nan and property 18.0
+      [Warning] Ignoring Dayton, MINNESOTA7, population 4650.0 with violent nan and property 39.0
+      [Warning] Ignoring Deephaven-Woodland, MINNESOTA7, population 4339.0 with violent nan and property 17.0
+      [Warning] Ignoring Detroit Lakes, MINNESOTA7, population 8329.0 with violent nan and property 419.0
+      [Warning] Ignoring Dilworth, MINNESOTA7, population 3787.0 with violent nan and property 103.0
+      [Warning] Ignoring Duluth2, MINNESOTA7, population 84249.0 with violent nan and property nan
+      [Warning] Ignoring Eagan, MINNESOTA7, population 64239.0 with violent nan and property 1625.0
+      [Warning] Ignoring Eagle Lake, MINNESOTA7, population 2416.0 with violent nan and property 14.0
+      [Warning] Ignoring East Grand Forks, MINNESOTA7, population 7878.0 with violent nan and property 235.0
+      [Warning] Ignoring Eden Prairie, MINNESOTA7, population 63159.0 with violent nan and property 1020.0
+      [Warning] Ignoring Edina, MINNESOTA7, population 46503.0 with violent nan and property 899.0
+      [Warning] Ignoring Elk River, MINNESOTA7, population 24025.0 with violent nan and property 607.0
+      [Warning] Ignoring Elmore, MINNESOTA7, population 642.0 with violent nan and property 12.0
+      [Warning] Ignoring Ely, MINNESOTA7, population 3459.0 with violent nan and property 76.0
+      [Warning] Ignoring Eveleth, MINNESOTA7, population 3559.0 with violent nan and property 119.0
+      [Warning] Ignoring Fairmont, MINNESOTA7, population 10029.0 with violent nan and property 279.0
+      [Warning] Ignoring Falcon Heights, MINNESOTA7, population 5661.0 with violent nan and property 107.0
+      [Warning] Ignoring Faribault, MINNESOTA7, population 22272.0 with violent nan and property 830.0
+      [Warning] Ignoring Farmington, MINNESOTA7, population 20229.0 with violent nan and property 177.0
+      [Warning] Ignoring Fergus Falls, MINNESOTA7, population 13531.0 with violent nan and property 350.0
+      [Warning] Ignoring Floodwood, MINNESOTA7, population 499.0 with violent nan and property 29.0
+      [Warning] Ignoring Forest Lake, MINNESOTA7, population 18030.0 with violent nan and property 533.0
+      [Warning] Ignoring Fridley, MINNESOTA7, population 25857.0 with violent nan and property 1329.0
+      [Warning] Ignoring Gilbert, MINNESOTA7, population 1748.0 with violent nan and property 0.0
+      [Warning] Ignoring Glencoe, MINNESOTA7, population 5517.0 with violent nan and property 113.0
+      [Warning] Ignoring Glenwood, MINNESOTA7, population 2467.0 with violent nan and property 8.0
+      [Warning] Ignoring Golden Valley, MINNESOTA7, population 20527.0 with violent nan and property 466.0
+      [Warning] Ignoring Goodview, MINNESOTA7, population 3737.0 with violent nan and property 91.0
+      [Warning] Ignoring Grand Rapids, MINNESOTA7, population 9457.0 with violent nan and property 359.0
+      [Warning] Ignoring Granite Falls, MINNESOTA7, population 2857.0 with violent nan and property 26.0
+      [Warning] Ignoring Hallock, MINNESOTA7, population 981.0 with violent nan and property 0.0
+      [Warning] Ignoring Hastings, MINNESOTA7, population 22688.0 with violent nan and property 525.0
+      [Warning] Ignoring Hermantown, MINNESOTA7, population 9755.0 with violent nan and property 294.0
+      [Warning] Ignoring Hibbing, MINNESOTA7, population 16157.0 with violent nan and property 242.0
+      [Warning] Ignoring Hilltop, MINNESOTA7, population 680.0 with violent nan and property 69.0
+      [Warning] Ignoring Hokah, MINNESOTA7, population 553.0 with violent nan and property 16.0
+      [Warning] Ignoring Hopkins, MINNESOTA7, population 17020.0 with violent nan and property 495.0
+      [Warning] Ignoring Houston, MINNESOTA7, population 943.0 with violent nan and property 16.0
+      [Warning] Ignoring Hoyt Lakes, MINNESOTA7, population 1953.0 with violent nan and property 0.0
+      [Warning] Ignoring Hutchinson, MINNESOTA7, population 13901.0 with violent nan and property 376.0
+      [Warning] Ignoring International Falls, MINNESOTA7, population 5763.0 with violent nan and property 204.0
+      [Warning] Ignoring Jackson, MINNESOTA7, population 3302.0 with violent nan and property 67.0
+      [Warning] Ignoring Janesville, MINNESOTA7, population 2259.0 with violent nan and property 25.0
+      [Warning] Ignoring Kasson, MINNESOTA7, population 5703.0 with violent nan and property 59.0
+      [Warning] Ignoring Kimball, MINNESOTA7, population 718.0 with violent nan and property 4.0
+      [Warning] Ignoring La Crescent, MINNESOTA7, population 4897.0 with violent nan and property 89.0
+      [Warning] Ignoring Lake City, MINNESOTA7, population 5313.0 with violent nan and property 159.0
+      [Warning] Ignoring Lake Crystal, MINNESOTA7, population 2635.0 with violent nan and property 49.0
+      [Warning] Ignoring Lakefield, MINNESOTA7, population 1614.0 with violent nan and property 39.0
+      [Warning] Ignoring Lakes Area, MINNESOTA7, population 8654.0 with violent nan and property 222.0
+      [Warning] Ignoring Lakeville, MINNESOTA7, population 57470.0 with violent nan and property 830.0
+      [Warning] Ignoring Lauderdale, MINNESOTA7, population 2241.0 with violent nan and property 32.0
+      [Warning] Ignoring Lester Prairie, MINNESOTA7, population 1769.0 with violent nan and property 9.0
+      [Warning] Ignoring Lewiston, MINNESOTA7, population 1461.0 with violent nan and property 2.0
+      [Warning] Ignoring Lino Lakes, MINNESOTA7, population 20953.0 with violent nan and property 193.0
+      [Warning] Ignoring Litchfield, MINNESOTA7, population 6554.0 with violent nan and property 130.0
+      [Warning] Ignoring Little Canada, MINNESOTA7, population 9644.0 with violent nan and property 295.0
+      [Warning] Ignoring Little Falls, MINNESOTA7, population 8049.0 with violent nan and property 140.0
+      [Warning] Ignoring Long Prairie, MINNESOTA7, population 2757.0 with violent nan and property 66.0
+      [Warning] Ignoring Madison, MINNESOTA7, population 1527.0 with violent nan and property 17.0
+      [Warning] Ignoring Mankato, MINNESOTA7, population 36921.0 with violent nan and property 1527.0
+      [Warning] Ignoring Maple Grove, MINNESOTA7, population 64861.0 with violent nan and property 1241.0
+      [Warning] Ignoring Mapleton, MINNESOTA7, population 1672.0 with violent nan and property 29.0
+      [Warning] Ignoring Maplewood, MINNESOTA7, population 36907.0 with violent nan and property 2317.0
+      [Warning] Ignoring Medina, MINNESOTA7, population 5297.0 with violent nan and property 102.0
+      [Warning] Ignoring Melrose, MINNESOTA7, population 3261.0 with violent nan and property 30.0
+      [Warning] Ignoring Mendota Heights, MINNESOTA7, population 11697.0 with violent nan and property 221.0
+      [Warning] Ignoring Milaca, MINNESOTA7, population 3015.0 with violent nan and property 29.0
+      [Warning] Ignoring Minnetonka, MINNESOTA7, population 50753.0 with violent nan and property 983.0
+      [Warning] Ignoring Minnetrista, MINNESOTA7, population 8796.0 with violent nan and property 82.0
+      [Warning] Ignoring Montevideo, MINNESOTA7, population 5148.0 with violent nan and property 125.0
+      [Warning] Ignoring Montgomery, MINNESOTA7, population 3305.0 with violent nan and property 57.0
+      [Warning] Ignoring Moorhead, MINNESOTA7, population 37274.0 with violent nan and property 938.0
+      [Warning] Ignoring Moose Lake, MINNESOTA7, population 2576.0 with violent nan and property 80.0
+      [Warning] Ignoring Morris, MINNESOTA7, population 5074.0 with violent nan and property 114.0
+      [Warning] Ignoring Mound, MINNESOTA7, population 9654.0 with violent nan and property 167.0
+      [Warning] Ignoring Mounds View, MINNESOTA7, population 12000.0 with violent nan and property 378.0
+      [Warning] Ignoring Mountain Iron, MINNESOTA7, population 2925.0 with violent nan and property 0.0
+      [Warning] Ignoring Mountain Lake, MINNESOTA7, population 1878.0 with violent nan and property 0.0
+      [Warning] Ignoring New Brighton, MINNESOTA7, population 21689.0 with violent nan and property 581.0
+      [Warning] Ignoring New Hope, MINNESOTA7, population 20644.0 with violent nan and property 677.0
+      [Warning] Ignoring Newport, MINNESOTA7, population 3495.0 with violent nan and property 134.0
+      [Warning] Ignoring New Prague, MINNESOTA7, population 7065.0 with violent nan and property 142.0
+      [Warning] Ignoring New Richland, MINNESOTA7, population 1148.0 with violent nan and property 0.0
+      [Warning] Ignoring New Ulm, MINNESOTA7, population 12843.0 with violent nan and property 232.0
+      [Warning] Ignoring North Branch, MINNESOTA7, population 10732.0 with violent nan and property 332.0
+      [Warning] Ignoring Northfield, MINNESOTA7, population 19918.0 with violent nan and property 404.0
+      [Warning] Ignoring North Mankato, MINNESOTA7, population 12748.0 with violent nan and property 232.0
+      [Warning] Ignoring North Oaks, MINNESOTA7, population 4883.0 with violent nan and property 46.0
+      [Warning] Ignoring North St. Paul, MINNESOTA7, population 11433.0 with violent nan and property 288.0
+      [Warning] Ignoring Oakdale, MINNESOTA7, population 27358.0 with violent nan and property 1121.0
+      [Warning] Ignoring Oak Park Heights, MINNESOTA7, population 4839.0 with violent nan and property 201.0
+      [Warning] Ignoring Orono, MINNESOTA7, population 12294.0 with violent nan and property 111.0
+      [Warning] Ignoring Ortonville, MINNESOTA7, population 1911.0 with violent nan and property 15.0
+      [Warning] Ignoring Osakis, MINNESOTA7, population 1566.0 with violent nan and property 28.0
+      [Warning] Ignoring Osseo, MINNESOTA7, population 2597.0 with violent nan and property 3.0
+      [Warning] Ignoring Owatonna, MINNESOTA7, population 25210.0 with violent nan and property 482.0
+      [Warning] Ignoring Park Rapids, MINNESOTA7, population 3654.0 with violent nan and property 248.0
+      [Warning] Ignoring Paynesville, MINNESOTA7, population 2290.0 with violent nan and property 106.0
+      [Warning] Ignoring Plymouth, MINNESOTA7, population 73579.0 with violent nan and property 1226.0
+      [Warning] Ignoring Princeton, MINNESOTA7, population 4839.0 with violent nan and property 146.0
+      [Warning] Ignoring Prior Lake, MINNESOTA7, population 26241.0 with violent nan and property 427.0
+      [Warning] Ignoring Proctor, MINNESOTA7, population 2840.0 with violent nan and property 107.0
+      [Warning] Ignoring Red Wing, MINNESOTA7, population 15641.0 with violent nan and property 472.0
+      [Warning] Ignoring Redwood Falls, MINNESOTA7, population 5050.0 with violent nan and property 166.0
+      [Warning] Ignoring Richfield, MINNESOTA7, population 33188.0 with violent nan and property 873.0
+      [Warning] Ignoring Robbinsdale, MINNESOTA7, population 13822.0 with violent nan and property 427.0
+      [Warning] Ignoring Rochester, MINNESOTA7, population 105027.0 with violent nan and property 2429.0
+      [Warning] Ignoring Rogers, MINNESOTA7, population 8288.0 with violent nan and property 55.0
+      [Warning] Ignoring Roseau, MINNESOTA7, population 2752.0 with violent nan and property 26.0
+      [Warning] Ignoring Rosemount, MINNESOTA7, population 22870.0 with violent nan and property 316.0
+      [Warning] Ignoring Roseville, MINNESOTA7, population 33176.0 with violent nan and property 1482.0
+      [Warning] Ignoring Sauk Centre, MINNESOTA7, population 4073.0 with violent nan and property 81.0
+      [Warning] Ignoring Sauk Rapids, MINNESOTA7, population 12130.0 with violent nan and property 75.0
+      [Warning] Ignoring Savage, MINNESOTA7, population 29151.0 with violent nan and property 686.0
+      [Warning] Ignoring Shakopee, MINNESOTA7, population 36290.0 with violent nan and property 1028.0
+      [Warning] Ignoring Shoreview, MINNESOTA7, population 25419.0 with violent nan and property 299.0
+      [Warning] Ignoring Silver Bay, MINNESOTA7, population 1804.0 with violent nan and property 1.0
+      [Warning] Ignoring Silver Lake, MINNESOTA7, population 794.0 with violent nan and property 13.0
+      [Warning] Ignoring Slayton, MINNESOTA7, population 1809.0 with violent nan and property 16.0
+      [Warning] Ignoring Sleepy Eye, MINNESOTA7, population 3363.0 with violent nan and property 0.0
+      [Warning] Ignoring South Lake Minnetonka, MINNESOTA7, population 12329.0 with violent nan and property 156.0
+      [Warning] Ignoring Springfield, MINNESOTA7, population 2103.0 with violent nan and property 0.0
+      [Warning] Ignoring Spring Grove, MINNESOTA7, population 1233.0 with violent nan and property 0.0
+      [Warning] Ignoring Spring Lake Park, MINNESOTA7, population 6577.0 with violent nan and property 366.0
+      [Warning] Ignoring St. Anthony, MINNESOTA7, population 8484.0 with violent nan and property 298.0
+      [Warning] Ignoring Staples, MINNESOTA7, population 2984.0 with violent nan and property 122.0
+      [Warning] Ignoring St. Charles, MINNESOTA7, population 3566.0 with violent nan and property 20.0
+      [Warning] Ignoring St. Cloud, MINNESOTA7, population 67942.0 with violent nan and property 2542.0
+      [Warning] Ignoring St. Francis, MINNESOTA7, population 7644.0 with violent nan and property 134.0
+      [Warning] Ignoring Stillwater, MINNESOTA7, population 18208.0 with violent nan and property 603.0
+      [Warning] Ignoring St. James, MINNESOTA7, population 4271.0 with violent nan and property 77.0
+      [Warning] Ignoring St. Louis Park, MINNESOTA7, population 45690.0 with violent nan and property 1473.0
+      [Warning] Ignoring St. Paul Park, MINNESOTA7, population 5262.0 with violent nan and property 134.0
+      [Warning] Ignoring St. Peter, MINNESOTA7, population 11063.0 with violent nan and property 248.0
+      [Warning] Ignoring Thief River Falls, MINNESOTA7, population 8575.0 with violent nan and property 139.0
+      [Warning] Ignoring Tracy, MINNESOTA7, population 2063.0 with violent nan and property 0.0
+      [Warning] Ignoring Two Harbors, MINNESOTA7, population 3245.0 with violent nan and property 45.0
+      [Warning] Ignoring Vadnais Heights, MINNESOTA7, population 12733.0 with violent nan and property 289.0
+      [Warning] Ignoring Virginia, MINNESOTA7, population 8419.0 with violent nan and property 508.0
+      [Warning] Ignoring Wabasha, MINNESOTA7, population 2513.0 with violent nan and property 69.0
+      [Warning] Ignoring Wadena, MINNESOTA7, population 3920.0 with violent nan and property 114.0
+      [Warning] Ignoring Waite Park, MINNESOTA7, population 6873.0 with violent nan and property 683.0
+      [Warning] Ignoring Warroad, MINNESOTA7, population 1649.0 with violent nan and property 21.0
+      [Warning] Ignoring Waseca, MINNESOTA7, population 8668.0 with violent nan and property 183.0
+      [Warning] Ignoring Wayzata, MINNESOTA7, population 3953.0 with violent nan and property 89.0
+      [Warning] Ignoring Wells, MINNESOTA7, population 2299.0 with violent nan and property 5.0
+      [Warning] Ignoring West Hennepin, MINNESOTA7, population 5680.0 with violent nan and property 38.0
+      [Warning] Ignoring Wheaton, MINNESOTA7, population 1362.0 with violent nan and property 36.0
+      [Warning] Ignoring White Bear Lake, MINNESOTA7, population 24365.0 with violent nan and property 946.0
+      [Warning] Ignoring Willmar, MINNESOTA7, population 17854.0 with violent nan and property 576.0
+      [Warning] Ignoring Windom, MINNESOTA7, population 4101.0 with violent nan and property 94.0
+      [Warning] Ignoring Winnebago, MINNESOTA7, population 1308.0 with violent nan and property 27.0
+      [Warning] Ignoring Winona, MINNESOTA7, population 26447.0 with violent nan and property 489.0
+      [Warning] Ignoring Winsted, MINNESOTA7, population 2425.0 with violent nan and property 41.0
+      [Warning] Ignoring Woodbury, MINNESOTA7, population 58503.0 with violent nan and property 1307.0
+      [Warning] Ignoring Worthington, MINNESOTA7, population 11114.0 with violent nan and property 232.0
+      [Warning] Ignoring Wyoming, MINNESOTA7, population 8148.0 with violent nan and property 174.0
+      [Warning] Ignoring Zumbrota, MINNESOTA7, population 3109.0 with violent nan and property 66.0
+   Processed MINNESOTA7 for year 2010!
+   Processed MISSISSIPPI for year 2010!
+   Processed MISSOURI for year 2010!
+   Processed MONTANA for year 2010!
+   Processed NEBRASKA for year 2010!
+   Processed NEVADA for year 2010!
+   Processed NEW HAMPSHIRE for year 2010!
+   Processed NEW JERSEY for year 2010!
+      [Warning] Ignoring Grants6, NEW MEXICO, population 8845.0 with violent nan and property 265.0
+      [Warning] Ignoring Los Alamos6, NEW MEXICO, population 18311.0 with violent nan and property 186.0
+      [Warning] Ignoring Los Lunas6, NEW MEXICO, population 15054.0 with violent nan and property 546.0
+   Processed NEW MEXICO for year 2010!
+      [Warning] Ignoring Cornwall Town2, NEW YORK, population 9724.0 with violent 0.0 and property nan
+   Processed NEW YORK for year 2010!
+      [Warning] Ignoring Lake Royale, NORTH CAROLINA, population nan with violent 2.0 and property 88.0
+   Processed NORTH CAROLINA for year 2010!
+   Processed NORTH DAKOTA for year 2010!
+      [Warning] Ignoring Toledo6, OHIO, population 315647.0 with violent 2854.0 and property nan
+   Processed OHIO for year 2010!
+      [Warning] Ignoring Catoosa3, OKLAHOMA, population 8193.0 with violent nan and property 181.0
+      [Warning] Ignoring Glenpool3, OKLAHOMA, population 10685.0 with violent nan and property 224.0
+      [Warning] Ignoring Nowata3, OKLAHOMA, population 3956.0 with violent nan and property 61.0
+      [Warning] Ignoring Pryor3, OKLAHOMA, population 9400.0 with violent nan and property 310.0
+      [Warning] Ignoring Shawnee3, OKLAHOMA, population 31002.0 with violent nan and property 1757.0
+      [Warning] Ignoring Weatherford3, OKLAHOMA, population 10551.0 with violent nan and property 311.0
+   Processed OKLAHOMA for year 2010!
+      [Warning] Ignoring Black Butte, OREGON5, population nan with violent 0.0 and property 10.0
+      [Warning] Ignoring Sunriver, OREGON5, population nan with violent 2.0 and property 55.0
+   Processed OREGON5 for year 2010!
+      [Warning] Ignoring Indiana3, PENNSYLVANIA, population 15062.0 with violent nan and property 329.0
+   Processed PENNSYLVANIA for year 2010!
+   Processed RHODE ISLAND for year 2010!
+   Processed SOUTH CAROLINA for year 2010!
+   Processed SOUTH DAKOTA for year 2010!
+   Processed TENNESSEE for year 2010!
+   Processed TEXAS for year 2010!
+   Processed UTAH for year 2010!
+   Processed VERMONT for year 2010!
+   Processed VIRGINIA for year 2010!
+   Processed WASHINGTON for year 2010!
+      [Warning] Ignoring Fairmont2, WEST VIRGINIA, population 19332.0 with violent 48.0 and property nan
+      [Warning] Ignoring Hurricane2, WEST VIRGINIA, population 6463.0 with violent 11.0 and property nan
+      [Warning] Ignoring Morgantown2, WEST VIRGINIA, population 31247.0 with violent 100.0 and property nan
+      [Warning] Ignoring Summersville3, WEST VIRGINIA, population 3351.0 with violent nan and property 127.0
+      [Warning] Ignoring Vienna2, WEST VIRGINIA, population 10715.0 with violent 12.0 and property nan
+   Processed WEST VIRGINIA for year 2010!
+      [Warning] Ignoring Portage2, WISCONSIN, population 9815.0 with violent 27.0 and property nan
+   Processed WISCONSIN for year 2010!
+   Processed WYOMING for year 2010!
+   Processed ALABAMA for year 2011!
+   Processed ALASKA for year 2011!
+      [Warning] Ignoring Douglas4, ARIZONA, population 17624.0 with violent nan and property 580.0
+      [Warning] Ignoring Tucson5, ARIZONA, population 527479.0 with violent 3440.0 and property nan
+   Processed ARIZONA for year 2011!
+   Processed ARKANSAS for year 2011!
+   Processed CALIFORNIA for year 2011!
+   Processed COLORADO for year 2011!
+   Processed CONNECTICUT for year 2011!
+   Processed DELAWARE for year 2011!
+   Processed DISTRICT OF COLUMBIA for year 2011!
+   Processed FLORIDA for year 2011!
+      [Warning] Ignoring Eatonton6, GEORGIA, population 6565.0 with violent 59.0 and property nan
+   Processed GEORGIA for year 2011!
+   Processed IDAHO for year 2011!
+      [Warning] Ignoring Chicago7, ILLINOIS, population 2703713.0 with violent nan and property 118239.0
+   Processed ILLINOIS for year 2011!
+   Processed INDIANA for year 2011!
+   Processed IOWA for year 2011!
+   Processed KANSAS for year 2011!
+   Processed KENTUCKY for year 2011!
+   Processed LOUISIANA for year 2011!
+   Processed MAINE for year 2011!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2011!
+   Processed MASSACHUSETTS for year 2011!
+   Processed MICHIGAN for year 2011!
+      [Warning] Ignoring Albany, MINNESOTA7, population 2581.0 with violent nan and property 16.0
+      [Warning] Ignoring Albert Lea, MINNESOTA7, population 18155.0 with violent nan and property 454.0
+      [Warning] Ignoring Alexandria, MINNESOTA7, population 11155.0 with violent nan and property 364.0
+      [Warning] Ignoring Annandale, MINNESOTA7, population 3253.0 with violent nan and property 96.0
+      [Warning] Ignoring Anoka, MINNESOTA7, population 17274.0 with violent nan and property 878.0
+      [Warning] Ignoring Appleton, MINNESOTA7, population 1423.0 with violent nan and property 40.0
+      [Warning] Ignoring Apple Valley, MINNESOTA7, population 49463.0 with violent nan and property 1191.0
+      [Warning] Ignoring Arden Hills, MINNESOTA7, population 9626.0 with violent nan and property 148.0
+      [Warning] Ignoring Aurora, MINNESOTA7, population 1695.0 with violent nan and property 0.0
+      [Warning] Ignoring Austin, MINNESOTA7, population 24909.0 with violent nan and property 757.0
+      [Warning] Ignoring Avon, MINNESOTA7, population 1407.0 with violent nan and property 22.0
+      [Warning] Ignoring Babbitt, MINNESOTA7, population 1486.0 with violent nan and property 0.0
+      [Warning] Ignoring Baxter, MINNESOTA7, population 7669.0 with violent nan and property 384.0
+      [Warning] Ignoring Bayport, MINNESOTA7, population 3498.0 with violent nan and property 27.0
+      [Warning] Ignoring Becker, MINNESOTA7, population 4573.0 with violent nan and property 37.0
+      [Warning] Ignoring Belgrade, MINNESOTA7, population 746.0 with violent nan and property 0.0
+      [Warning] Ignoring Belle Plaine, MINNESOTA7, population 6712.0 with violent nan and property 129.0
+      [Warning] Ignoring Bemidji, MINNESOTA7, population 13535.0 with violent nan and property 1090.0
+      [Warning] Ignoring Benson, MINNESOTA7, population 3265.0 with violent nan and property 82.0
+      [Warning] Ignoring Big Lake, MINNESOTA7, population 10138.0 with violent nan and property 100.0
+      [Warning] Ignoring Blackduck, MINNESOTA7, population 791.0 with violent nan and property 39.0
+      [Warning] Ignoring Blaine, MINNESOTA7, population 57627.0 with violent nan and property 1960.0
+      [Warning] Ignoring Bloomington, MINNESOTA7, population 83533.0 with violent nan and property 3151.0
+      [Warning] Ignoring Blue Earth, MINNESOTA7, population 3379.0 with violent nan and property 26.0
+      [Warning] Ignoring Brainerd, MINNESOTA7, population 13695.0 with violent nan and property 671.0
+      [Warning] Ignoring Breckenridge, MINNESOTA7, population 3412.0 with violent nan and property 53.0
+      [Warning] Ignoring Brooklyn Center, MINNESOTA7, population 30336.0 with violent nan and property 1535.0
+      [Warning] Ignoring Brooklyn Park, MINNESOTA7, population 76366.0 with violent nan and property 2844.0
+      [Warning] Ignoring Brownton, MINNESOTA7, population 768.0 with violent nan and property 2.0
+      [Warning] Ignoring Buffalo, MINNESOTA7, population 15572.0 with violent nan and property 416.0
+      [Warning] Ignoring Burnsville, MINNESOTA7, population 60771.0 with violent nan and property 1679.0
+      [Warning] Ignoring Caledonia, MINNESOTA7, population 2890.0 with violent nan and property 57.0
+      [Warning] Ignoring Cambridge, MINNESOTA7, population 8174.0 with violent nan and property 324.0
+      [Warning] Ignoring Cannon Falls, MINNESOTA7, population 4115.0 with violent nan and property 105.0
+      [Warning] Ignoring Centennial Lakes, MINNESOTA7, population 10842.0 with violent nan and property 191.0
+      [Warning] Ignoring Champlin, MINNESOTA7, population 23267.0 with violent nan and property 474.0
+      [Warning] Ignoring Chaska, MINNESOTA7, population 23953.0 with violent nan and property 298.0
+      [Warning] Ignoring Chisholm, MINNESOTA7, population 5014.0 with violent nan and property 90.0
+      [Warning] Ignoring Cloquet, MINNESOTA7, population 12218.0 with violent nan and property 507.0
+      [Warning] Ignoring Cold Spring, MINNESOTA7, population 5489.0 with violent nan and property 41.0
+      [Warning] Ignoring Columbia Heights, MINNESOTA7, population 19646.0 with violent nan and property 612.0
+      [Warning] Ignoring Coon Rapids, MINNESOTA7, population 61950.0 with violent nan and property 2672.0
+      [Warning] Ignoring Corcoran, MINNESOTA7, population 5421.0 with violent nan and property 46.0
+      [Warning] Ignoring Cottage Grove, MINNESOTA7, population 34856.0 with violent nan and property 578.0
+      [Warning] Ignoring Crookston, MINNESOTA7, population 7952.0 with violent nan and property 77.0
+      [Warning] Ignoring Crosby, MINNESOTA7, population 2404.0 with violent nan and property 36.0
+      [Warning] Ignoring Crystal, MINNESOTA7, population 22322.0 with violent nan and property 642.0
+      [Warning] Ignoring Dawson, MINNESOTA7, population 1552.0 with violent nan and property 16.0
+      [Warning] Ignoring Dayton, MINNESOTA7, population 4707.0 with violent nan and property 53.0
+      [Warning] Ignoring Deephaven-Woodland, MINNESOTA7, population 4110.0 with violent nan and property 29.0
+      [Warning] Ignoring Detroit Lakes, MINNESOTA7, population 8635.0 with violent nan and property 407.0
+      [Warning] Ignoring Dilworth, MINNESOTA7, population 4055.0 with violent nan and property 121.0
+      [Warning] Ignoring Duluth, MINNESOTA7, population 86931.0 with violent nan and property 4346.0
+      [Warning] Ignoring Eagan, MINNESOTA7, population 64702.0 with violent nan and property 1512.0
+      [Warning] Ignoring Eagle Lake, MINNESOTA7, population 2441.0 with violent nan and property 28.0
+      [Warning] Ignoring East Grand Forks, MINNESOTA7, population 8667.0 with violent nan and property 208.0
+      [Warning] Ignoring Eden Prairie, MINNESOTA7, population 61266.0 with violent nan and property 960.0
+      [Warning] Ignoring Edina, MINNESOTA7, population 48311.0 with violent nan and property 767.0
+      [Warning] Ignoring Elk River, MINNESOTA7, population 23151.0 with violent nan and property 618.0
+      [Warning] Ignoring Elmore, MINNESOTA7, population 668.0 with violent nan and property 12.0
+      [Warning] Ignoring Ely, MINNESOTA7, population 3487.0 with violent nan and property 58.0
+      [Warning] Ignoring Eveleth, MINNESOTA7, population 3747.0 with violent nan and property 117.0
+      [Warning] Ignoring Fairmont, MINNESOTA7, population 10748.0 with violent nan and property 311.0
+      [Warning] Ignoring Falcon Heights, MINNESOTA7, population 5362.0 with violent nan and property 102.0
+      [Warning] Ignoring Faribault, MINNESOTA7, population 23532.0 with violent nan and property 669.0
+      [Warning] Ignoring Farmington, MINNESOTA7, population 21249.0 with violent nan and property 191.0
+      [Warning] Ignoring Fergus Falls, MINNESOTA7, population 13239.0 with violent nan and property 392.0
+      [Warning] Ignoring Floodwood, MINNESOTA7, population 532.0 with violent nan and property 33.0
+      [Warning] Ignoring Forest Lake, MINNESOTA7, population 18517.0 with violent nan and property 474.0
+      [Warning] Ignoring Fridley, MINNESOTA7, population 27418.0 with violent nan and property 1270.0
+      [Warning] Ignoring Gilbert, MINNESOTA7, population 1813.0 with violent nan and property 1.0
+      [Warning] Ignoring Glencoe, MINNESOTA7, population 5674.0 with violent nan and property 89.0
+      [Warning] Ignoring Glenwood, MINNESOTA7, population 2584.0 with violent nan and property 3.0
+      [Warning] Ignoring Golden Valley, MINNESOTA7, population 20528.0 with violent nan and property 438.0
+      [Warning] Ignoring Goodview, MINNESOTA7, population 4067.0 with violent nan and property 96.0
+      [Warning] Ignoring Grand Rapids, MINNESOTA7, population 10953.0 with violent nan and property 435.0
+      [Warning] Ignoring Granite Falls, MINNESOTA7, population 2919.0 with violent nan and property 54.0
+      [Warning] Ignoring Hallock, MINNESOTA7, population 989.0 with violent nan and property 0.0
+      [Warning] Ignoring Hastings, MINNESOTA7, population 22343.0 with violent nan and property 563.0
+      [Warning] Ignoring Hermantown, MINNESOTA7, population 9487.0 with violent nan and property 318.0
+      [Warning] Ignoring Hibbing, MINNESOTA7, population 16487.0 with violent nan and property 181.0
+      [Warning] Ignoring Hilltop, MINNESOTA7, population 750.0 with violent nan and property 66.0
+      [Warning] Ignoring Hokah, MINNESOTA7, population 584.0 with violent nan and property 28.0
+      [Warning] Ignoring Hopkins, MINNESOTA7, population 17727.0 with violent nan and property 447.0
+      [Warning] Ignoring Houston, MINNESOTA7, population 987.0 with violent nan and property 14.0
+      [Warning] Ignoring Hoyt Lakes, MINNESOTA7, population 2033.0 with violent nan and property 0.0
+      [Warning] Ignoring Hutchinson, MINNESOTA7, population 14287.0 with violent nan and property 341.0
+      [Warning] Ignoring Inver Grove Heights, MINNESOTA7, population 34141.0 with violent nan and property 624.0
+      [Warning] Ignoring Janesville, MINNESOTA7, population 2273.0 with violent nan and property 34.0
+      [Warning] Ignoring Jordan, MINNESOTA7, population 5512.0 with violent nan and property 107.0
+      [Warning] Ignoring Kasson, MINNESOTA7, population 5977.0 with violent nan and property 43.0
+      [Warning] Ignoring Kimball, MINNESOTA7, population 768.0 with violent nan and property 0.0
+      [Warning] Ignoring La Crescent, MINNESOTA7, population 4867.0 with violent nan and property 55.0
+      [Warning] Ignoring Lake City, MINNESOTA7, population 5102.0 with violent nan and property 128.0
+      [Warning] Ignoring Lake Crystal, MINNESOTA7, population 2569.0 with violent nan and property 34.0
+      [Warning] Ignoring Lakefield, MINNESOTA7, population 1707.0 with violent nan and property 26.0
+      [Warning] Ignoring Lakes Area, MINNESOTA7, population 9481.0 with violent nan and property 180.0
+      [Warning] Ignoring Lakeville, MINNESOTA7, population 56386.0 with violent nan and property 771.0
+      [Warning] Ignoring Lauderdale, MINNESOTA7, population 2397.0 with violent nan and property 44.0
+      [Warning] Ignoring Lester Prairie, MINNESOTA7, population 1743.0 with violent nan and property 28.0
+      [Warning] Ignoring Lewiston, MINNESOTA7, population 1633.0 with violent nan and property 1.0
+      [Warning] Ignoring Lino Lakes, MINNESOTA7, population 20372.0 with violent nan and property 216.0
+      [Warning] Ignoring Litchfield, MINNESOTA7, population 6778.0 with violent nan and property 100.0
+      [Warning] Ignoring Little Canada, MINNESOTA7, population 9848.0 with violent nan and property 238.0
+      [Warning] Ignoring Little Falls, MINNESOTA7, population 8407.0 with violent nan and property 176.0
+      [Warning] Ignoring Long Prairie, MINNESOTA7, population 3485.0 with violent nan and property 84.0
+      [Warning] Ignoring Madison, MINNESOTA7, population 1563.0 with violent nan and property 19.0
+      [Warning] Ignoring Mankato, MINNESOTA7, population 39612.0 with violent nan and property 1859.0
+      [Warning] Ignoring Maple Grove, MINNESOTA7, population 62042.0 with violent nan and property 1202.0
+      [Warning] Ignoring Mapleton, MINNESOTA7, population 1770.0 with violent nan and property 23.0
+      [Warning] Ignoring Maplewood, MINNESOTA7, population 38311.0 with violent nan and property 2238.0
+      [Warning] Ignoring Marshall, MINNESOTA7, population 13786.0 with violent nan and property 415.0
+      [Warning] Ignoring Medina, MINNESOTA7, population 4930.0 with violent nan and property 149.0
+      [Warning] Ignoring Melrose, MINNESOTA7, population 3626.0 with violent nan and property 30.0
+      [Warning] Ignoring Mendota Heights, MINNESOTA7, population 11156.0 with violent nan and property 256.0
+      [Warning] Ignoring Milaca, MINNESOTA7, population 2969.0 with violent nan and property 16.0
+      [Warning] Ignoring Minnetonka, MINNESOTA7, population 50118.0 with violent nan and property 910.0
+      [Warning] Ignoring Minnetrista, MINNESOTA7, population 8734.0 with violent nan and property 119.0
+      [Warning] Ignoring Montevideo, MINNESOTA7, population 5425.0 with violent nan and property 156.0
+      [Warning] Ignoring Montgomery, MINNESOTA7, population 2979.0 with violent nan and property 42.0
+      [Warning] Ignoring Moorhead, MINNESOTA7, population 38359.0 with violent nan and property 824.0
+      [Warning] Ignoring Moose Lake, MINNESOTA7, population 2772.0 with violent nan and property 76.0
+      [Warning] Ignoring Morris, MINNESOTA7, population 5327.0 with violent nan and property 121.0
+      [Warning] Ignoring Mound, MINNESOTA7, population 9122.0 with violent nan and property 185.0
+      [Warning] Ignoring Mounds View, MINNESOTA7, population 12249.0 with violent nan and property 380.0
+      [Warning] Ignoring Mountain Iron, MINNESOTA7, population 2891.0 with violent nan and property 0.0
+      [Warning] Ignoring Mountain Lake, MINNESOTA7, population 2120.0 with violent nan and property 0.0
+      [Warning] Ignoring New Brighton, MINNESOTA7, population 21622.0 with violent nan and property 501.0
+      [Warning] Ignoring New Hope, MINNESOTA7, population 20496.0 with violent nan and property 493.0
+      [Warning] Ignoring Newport, MINNESOTA7, population 3462.0 with violent nan and property 121.0
+      [Warning] Ignoring New Prague, MINNESOTA7, population 7378.0 with violent nan and property 161.0
+      [Warning] Ignoring New Richland, MINNESOTA7, population 1212.0 with violent nan and property 0.0
+      [Warning] Ignoring New Ulm, MINNESOTA7, population 13626.0 with violent nan and property 283.0
+      [Warning] Ignoring North Branch, MINNESOTA7, population 10203.0 with violent nan and property 282.0
+      [Warning] Ignoring Northfield, MINNESOTA7, population 20161.0 with violent nan and property 315.0
+      [Warning] Ignoring North Mankato, MINNESOTA7, population 13497.0 with violent nan and property 314.0
+      [Warning] Ignoring North Oaks, MINNESOTA7, population 4503.0 with violent nan and property 32.0
+      [Warning] Ignoring Oakdale, MINNESOTA7, population 27589.0 with violent nan and property 1117.0
+      [Warning] Ignoring Oak Park Heights, MINNESOTA7, population 4372.0 with violent nan and property 230.0
+      [Warning] Ignoring Olivia, MINNESOTA7, population 2503.0 with violent nan and property 118.0
+      [Warning] Ignoring Orono, MINNESOTA7, population 11501.0 with violent nan and property 119.0
+      [Warning] Ignoring Ortonville, MINNESOTA7, population 1931.0 with violent nan and property 16.0
+      [Warning] Ignoring Osakis, MINNESOTA7, population 1753.0 with violent nan and property 31.0
+      [Warning] Ignoring Owatonna, MINNESOTA7, population 25797.0 with violent nan and property 491.0
+      [Warning] Ignoring Park Rapids, MINNESOTA7, population 3738.0 with violent nan and property 217.0
+      [Warning] Ignoring Paynesville, MINNESOTA7, population 2451.0 with violent nan and property 80.0
+      [Warning] Ignoring Plymouth, MINNESOTA7, population 71121.0 with violent nan and property 1212.0
+      [Warning] Ignoring Princeton, MINNESOTA7, population 4734.0 with violent nan and property 171.0
+      [Warning] Ignoring Prior Lake, MINNESOTA7, population 22972.0 with violent nan and property 454.0
+      [Warning] Ignoring Proctor, MINNESOTA7, population 3081.0 with violent nan and property 95.0
+      [Warning] Ignoring Ramsey, MINNESOTA7, population 23851.0 with violent nan and property 548.0
+      [Warning] Ignoring Red Wing, MINNESOTA7, population 16586.0 with violent nan and property 639.0
+      [Warning] Ignoring Redwood Falls, MINNESOTA7, population 5295.0 with violent nan and property 160.0
+      [Warning] Ignoring Richfield, MINNESOTA7, population 35500.0 with violent nan and property 869.0
+      [Warning] Ignoring Robbinsdale, MINNESOTA7, population 14061.0 with violent nan and property 475.0
+      [Warning] Ignoring Rochester, MINNESOTA7, population 107593.0 with violent nan and property 2323.0
+      [Warning] Ignoring Rogers, MINNESOTA7, population 8663.0 with violent nan and property 68.0
+      [Warning] Ignoring Roseau, MINNESOTA7, population 2653.0 with violent nan and property 22.0
+      [Warning] Ignoring Rosemount, MINNESOTA7, population 22043.0 with violent nan and property 326.0
+      [Warning] Ignoring Roseville, MINNESOTA7, population 33920.0 with violent nan and property 1507.0
+      [Warning] Ignoring Sartell, MINNESOTA7, population 15999.0 with violent nan and property 252.0
+      [Warning] Ignoring Sauk Centre, MINNESOTA7, population 4350.0 with violent nan and property 83.0
+      [Warning] Ignoring Sauk Rapids, MINNESOTA7, population 12872.0 with violent nan and property 109.0
+      [Warning] Ignoring Savage, MINNESOTA7, population 27119.0 with violent nan and property 631.0
+      [Warning] Ignoring Shakopee, MINNESOTA7, population 37362.0 with violent nan and property 1026.0
+      [Warning] Ignoring Shoreview, MINNESOTA7, population 25236.0 with violent nan and property 291.0
+      [Warning] Ignoring Silver Bay, MINNESOTA7, population 1902.0 with violent nan and property 15.0
+      [Warning] Ignoring Silver Lake, MINNESOTA7, population 843.0 with violent nan and property 5.0
+      [Warning] Ignoring Slayton, MINNESOTA7, population 2170.0 with violent nan and property 17.0
+      [Warning] Ignoring South Lake Minnetonka, MINNESOTA7, population 11747.0 with violent nan and property 142.0
+      [Warning] Ignoring South St. Paul, MINNESOTA7, population 20316.0 with violent nan and property 575.0
+      [Warning] Ignoring Spring Lake Park, MINNESOTA7, population 6461.0 with violent nan and property 329.0
+      [Warning] Ignoring St. Anthony, MINNESOTA7, population 8289.0 with violent nan and property 306.0
+      [Warning] Ignoring Staples, MINNESOTA7, population 3004.0 with violent nan and property 84.0
+      [Warning] Ignoring St. Charles, MINNESOTA7, population 3764.0 with violent nan and property 29.0
+      [Warning] Ignoring St. Cloud, MINNESOTA7, population 66350.0 with violent nan and property 2578.0
+      [Warning] Ignoring St. Francis, MINNESOTA7, population 7274.0 with violent nan and property 136.0
+      [Warning] Ignoring Stillwater, MINNESOTA7, population 18366.0 with violent nan and property 474.0
+      [Warning] Ignoring St. James, MINNESOTA7, population 4641.0 with violent nan and property 74.0
+      [Warning] Ignoring St. Louis Park, MINNESOTA7, population 45599.0 with violent nan and property 1405.0
+      [Warning] Ignoring St. Paul Park, MINNESOTA7, population 5320.0 with violent nan and property 154.0
+      [Warning] Ignoring St. Peter, MINNESOTA7, population 11282.0 with violent nan and property 280.0
+      [Warning] Ignoring Thief River Falls, MINNESOTA7, population 8639.0 with violent nan and property 260.0
+      [Warning] Ignoring Two Harbors, MINNESOTA7, population 3774.0 with violent nan and property 40.0
+      [Warning] Ignoring Vadnais Heights, MINNESOTA7, population 12397.0 with violent nan and property 227.0
+      [Warning] Ignoring Virginia, MINNESOTA7, population 8779.0 with violent nan and property 506.0
+      [Warning] Ignoring Wabasha, MINNESOTA7, population 2540.0 with violent nan and property 92.0
+      [Warning] Ignoring Wadena, MINNESOTA7, population 4120.0 with violent nan and property 109.0
+      [Warning] Ignoring Waite Park, MINNESOTA7, population 6767.0 with violent nan and property 787.0
+      [Warning] Ignoring Warroad, MINNESOTA7, population 1795.0 with violent nan and property 18.0
+      [Warning] Ignoring Waseca, MINNESOTA7, population 9483.0 with violent nan and property 174.0
+      [Warning] Ignoring Wayzata, MINNESOTA7, population 3716.0 with violent nan and property 114.0
+      [Warning] Ignoring West Hennepin, MINNESOTA7, population 5313.0 with violent nan and property 46.0
+      [Warning] Ignoring West St. Paul, MINNESOTA7, population 19691.0 with violent nan and property 651.0
+      [Warning] Ignoring Wheaton, MINNESOTA7, population 1435.0 with violent nan and property 39.0
+      [Warning] Ignoring White Bear Lake, MINNESOTA7, population 23981.0 with violent nan and property 767.0
+      [Warning] Ignoring White Bear Township, MINNESOTA7, population 11034.0 with violent nan and property 4.0
+      [Warning] Ignoring Willmar, MINNESOTA7, population 19761.0 with violent nan and property 489.0
+      [Warning] Ignoring Windom, MINNESOTA7, population 4682.0 with violent nan and property 115.0
+      [Warning] Ignoring Winnebago, MINNESOTA7, population 1448.0 with violent nan and property 11.0
+      [Warning] Ignoring Winona, MINNESOTA7, population 27805.0 with violent nan and property 456.0
+      [Warning] Ignoring Winsted, MINNESOTA7, population 2373.0 with violent nan and property 39.0
+      [Warning] Ignoring Woodbury, MINNESOTA7, population 62439.0 with violent nan and property 1300.0
+      [Warning] Ignoring Worthington, MINNESOTA7, population 12863.0 with violent nan and property 254.0
+      [Warning] Ignoring Wyoming, MINNESOTA7, population 7851.0 with violent nan and property 159.0
+      [Warning] Ignoring Zumbrota, MINNESOTA7, population 3277.0 with violent nan and property 40.0
+   Processed MINNESOTA7 for year 2011!
+      [Warning] Ignoring Petal6, 4, MISSISSIPPI, population 10494.0 with violent 1.0 and property nan
+   Processed MISSISSIPPI for year 2011!
+      [Warning] Ignoring Branson6, 4, MISSOURI, population 10558.0 with violent 132.0 and property nan
+   Processed MISSOURI for year 2011!
+   Processed MONTANA2  for year 2011!
+   Processed NEBRASKA for year 2011!
+   Processed NEVADA for year 2011!
+   Processed NEW HAMPSHIRE for year 2011!
+   Processed NEW JERSEY for year 2011!
+   Processed NEW MEXICO for year 2011!
+   Processed NEW YORK for year 2011!
+   Processed NORTH CAROLINA for year 2011!
+   Processed NORTH DAKOTA for year 2011!
+      [Warning] Ignoring Toledo5, OHIO, population 287418.0 with violent 2868.0 and property nan
+   Processed OHIO for year 2011!
+   Processed OKLAHOMA for year 2011!
+      [Warning] Ignoring Black Butte, OREGON, population nan with violent 0.0 and property 7.0
+      [Warning] Ignoring Sunriver, OREGON, population nan with violent 3.0 and property 56.0
+   Processed OREGON for year 2011!
+      [Warning] Ignoring Chester4, PENNSYLVANIA, population 34080.0 with violent nan and property 1322.0
+   Processed PENNSYLVANIA for year 2011!
+   Processed RHODE ISLAND for year 2011!
+   Processed SOUTH CAROLINA for year 2011!
+   Processed SOUTH DAKOTA for year 2011!
+   Processed TENNESSEE for year 2011!
+   Processed TEXAS for year 2011!
+   Processed UTAH for year 2011!
+   Processed VERMONT for year 2011!
+   Processed VIRGINIA for year 2011!
+   Processed WASHINGTON for year 2011!
+   Processed WEST VIRGINIA for year 2011!
+   Processed WISCONSIN for year 2011!
+   Processed WYOMING for year 2011!
+   Processed ALABAMA for year 2012!
+   Processed ALASKA for year 2012!
+      [Warning] Ignoring Tucson4, ARIZONA, population 531535.0 with violent 3851.0 and property nan
+   Processed ARIZONA for year 2012!
+   Processed ARKANSAS for year 2012!
+      [Warning] Ignoring Twin Cities5, CALIFORNIA, population 21606.0 with violent 37.0 and property nan
+   Processed CALIFORNIA for year 2012!
+   Processed COLORADO for year 2012!
+   Processed CONNECTICUT for year 2012!
+   Processed DELAWARE for year 2012!
+   Processed DISTRICT OF COLUMBIA for year 2012!
+   Processed FLORIDA for year 2012!
+   Processed GEORGIA for year 2012!
+   Processed IDAHO for year 2012!
+      [Warning] Ignoring Chicago6, ILLINOIS, population 2708382.0 with violent nan and property 112466.0
+   Processed ILLINOIS for year 2012!
+      [Warning] Ignoring Warsaw7, INDIANA, population 13599.0 with violent nan and property 584.0
+   Processed INDIANA for year 2012!
+      [Warning] Ignoring Dubuque7, IOWA, population 58460.0 with violent 128.0 and property nan
+      [Warning] Ignoring Osage7, IOWA, population 3636.0 with violent 4.0 and property nan
+      [Warning] Ignoring Vinton7, IOWA, population 5280.0 with violent 8.0 and property nan
+      [Warning] Ignoring Winterset7, IOWA, population 5242.0 with violent 6.0 and property nan
+   Processed IOWA for year 2012!
+   Processed KANSAS for year 2012!
+   Processed KENTUCKY for year 2012!
+      [Warning] Ignoring Gonzales5, LOUISIANA, population 10095.0 with violent nan and property 727.0
+      [Warning] Ignoring Jennings5, LOUISIANA, population 10477.0 with violent nan and property 305.0
+      [Warning] Ignoring Plaquemine5, LOUISIANA, population 7122.0 with violent nan and property 464.0
+      [Warning] Ignoring Port Allen5, LOUISIANA, population 5281.0 with violent nan and property nan
+   Processed LOUISIANA for year 2012!
+   Processed MAINE for year 2012!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2012!
+   Processed MASSACHUSETTS for year 2012!
+   Processed MICHIGAN for year 2012!
+      [Warning] Ignoring Albany, MINNESOTA6, population 2601.0 with violent nan and property 26.0
+      [Warning] Ignoring Albert Lea, MINNESOTA6, population 18082.0 with violent nan and property 494.0
+      [Warning] Ignoring Alexandria, MINNESOTA6, population 11192.0 with violent nan and property 320.0
+      [Warning] Ignoring Annandale, MINNESOTA6, population 3292.0 with violent nan and property 80.0
+      [Warning] Ignoring Anoka, MINNESOTA6, population 17367.0 with violent nan and property 747.0
+      [Warning] Ignoring Appleton, MINNESOTA6, population 1401.0 with violent nan and property 20.0
+      [Warning] Ignoring Apple Valley, MINNESOTA6, population 49827.0 with violent nan and property 1116.0
+      [Warning] Ignoring Arden Hills, MINNESOTA6, population 9704.0 with violent nan and property 156.0
+      [Warning] Ignoring Aurora, MINNESOTA6, population 1693.0 with violent nan and property 0.0
+      [Warning] Ignoring Austin, MINNESOTA6, population 24993.0 with violent nan and property 712.0
+      [Warning] Ignoring Avon, MINNESOTA6, population 1411.0 with violent nan and property 13.0
+      [Warning] Ignoring Babbitt, MINNESOTA6, population 1484.0 with violent nan and property 37.0
+      [Warning] Ignoring Baxter, MINNESOTA6, population 7691.0 with violent nan and property 504.0
+      [Warning] Ignoring Bayport, MINNESOTA6, population 3518.0 with violent nan and property 43.0
+      [Warning] Ignoring Becker, MINNESOTA6, population 4609.0 with violent nan and property 43.0
+      [Warning] Ignoring Belgrade, MINNESOTA6, population 748.0 with violent nan and property 0.0
+      [Warning] Ignoring Belle Plaine, MINNESOTA6, population 6836.0 with violent nan and property 100.0
+      [Warning] Ignoring Bemidji, MINNESOTA6, population 13745.0 with violent nan and property 1332.0
+      [Warning] Ignoring Benson, MINNESOTA6, population 3214.0 with violent nan and property 110.0
+      [Warning] Ignoring Big Lake, MINNESOTA6, population 10222.0 with violent nan and property 144.0
+      [Warning] Ignoring Blackduck, MINNESOTA6, population 804.0 with violent nan and property 23.0
+      [Warning] Ignoring Blaine, MINNESOTA6, population 57953.0 with violent nan and property 1922.0
+      [Warning] Ignoring Blooming Prairie, MINNESOTA6, population 2007.0 with violent nan and property 0.0
+      [Warning] Ignoring Bloomington, MINNESOTA6, population 84596.0 with violent nan and property 3212.0
+      [Warning] Ignoring Blue Earth, MINNESOTA6, population 3365.0 with violent nan and property 47.0
+      [Warning] Ignoring Brainerd, MINNESOTA6, population 13734.0 with violent nan and property 695.0
+      [Warning] Ignoring Breckenridge, MINNESOTA6, population 3417.0 with violent nan and property 78.0
+      [Warning] Ignoring Brooklyn Center, MINNESOTA6, population 30725.0 with violent nan and property 1571.0
+      [Warning] Ignoring Brooklyn Park, MINNESOTA6, population 77346.0 with violent nan and property 2629.0
+      [Warning] Ignoring Brownton, MINNESOTA6, population 762.0 with violent nan and property 2.0
+      [Warning] Ignoring Buffalo, MINNESOTA6, population 15765.0 with violent nan and property 423.0
+      [Warning] Ignoring Burnsville, MINNESOTA6, population 61218.0 with violent nan and property 1810.0
+      [Warning] Ignoring Caledonia, MINNESOTA6, population 2868.0 with violent nan and property 34.0
+      [Warning] Ignoring Cambridge, MINNESOTA6, population 8262.0 with violent nan and property 318.0
+      [Warning] Ignoring Cannon Falls, MINNESOTA6, population 4112.0 with violent nan and property 112.0
+      [Warning] Ignoring Centennial Lakes, MINNESOTA6, population 10903.0 with violent nan and property 130.0
+      [Warning] Ignoring Champlin, MINNESOTA6, population 23568.0 with violent nan and property 382.0
+      [Warning] Ignoring Chaska, MINNESOTA6, population 24344.0 with violent nan and property 339.0
+      [Warning] Ignoring Chisholm, MINNESOTA6, population 5008.0 with violent nan and property 107.0
+      [Warning] Ignoring Cloquet, MINNESOTA6, population 12226.0 with violent nan and property 539.0
+      [Warning] Ignoring Cold Spring, MINNESOTA6, population 5508.0 with violent nan and property 43.0
+      [Warning] Ignoring Columbia Heights, MINNESOTA6, population 19758.0 with violent nan and property 595.0
+      [Warning] Ignoring Coon Rapids, MINNESOTA6, population 62301.0 with violent nan and property 1917.0
+      [Warning] Ignoring Corcoran, MINNESOTA6, population 5491.0 with violent nan and property 47.0
+      [Warning] Ignoring Cottage Grove, MINNESOTA6, population 35277.0 with violent nan and property 651.0
+      [Warning] Ignoring Crookston, MINNESOTA6, population 7907.0 with violent nan and property 165.0
+      [Warning] Ignoring Crosby, MINNESOTA6, population 2410.0 with violent nan and property 54.0
+      [Warning] Ignoring Crystal, MINNESOTA6, population 22607.0 with violent nan and property 720.0
+      [Warning] Ignoring Dawson, MINNESOTA6, population 1536.0 with violent nan and property 18.0
+      [Warning] Ignoring Dayton, MINNESOTA6, population 4766.0 with violent nan and property 54.0
+      [Warning] Ignoring Deephaven-Woodland, MINNESOTA6, population 4163.0 with violent nan and property 24.0
+      [Warning] Ignoring Dilworth, MINNESOTA6, population 4108.0 with violent nan and property 187.0
+      [Warning] Ignoring Duluth, MINNESOTA6, population 86830.0 with violent nan and property 3861.0
+      [Warning] Ignoring Eagan, MINNESOTA6, population 65180.0 with violent nan and property 1526.0
+      [Warning] Ignoring Eagle Lake, MINNESOTA6, population 2453.0 with violent nan and property 22.0
+      [Warning] Ignoring East Grand Forks, MINNESOTA6, population 8615.0 with violent nan and property 197.0
+      [Warning] Ignoring Eden Prairie, MINNESOTA6, population 62052.0 with violent nan and property 963.0
+      [Warning] Ignoring Edina, MINNESOTA6, population 48932.0 with violent nan and property 871.0
+      [Warning] Ignoring Elk River, MINNESOTA6, population 23335.0 with violent nan and property 564.0
+      [Warning] Ignoring Elmore, MINNESOTA6, population 666.0 with violent nan and property 14.0
+      [Warning] Ignoring Ely, MINNESOTA6, population 3482.0 with violent nan and property 75.0
+      [Warning] Ignoring Eveleth, MINNESOTA6, population 3742.0 with violent nan and property 135.0
+      [Warning] Ignoring Fairmont, MINNESOTA6, population 10657.0 with violent nan and property 284.0
+      [Warning] Ignoring Falcon Heights, MINNESOTA6, population 5416.0 with violent nan and property 137.0
+      [Warning] Ignoring Faribault, MINNESOTA6, population 23600.0 with violent nan and property 790.0
+      [Warning] Ignoring Farmington, MINNESOTA6, population 21403.0 with violent nan and property 203.0
+      [Warning] Ignoring Fergus Falls, MINNESOTA6, population 13209.0 with violent nan and property 464.0
+      [Warning] Ignoring Floodwood, MINNESOTA6, population 531.0 with violent nan and property 41.0
+      [Warning] Ignoring Forest Lake, MINNESOTA6, population 18738.0 with violent nan and property 428.0
+      [Warning] Ignoring Fridley, MINNESOTA6, population 27574.0 with violent nan and property 1238.0
+      [Warning] Ignoring Gilbert, MINNESOTA6, population 1810.0 with violent nan and property 1.0
+      [Warning] Ignoring Glencoe, MINNESOTA6, population 5634.0 with violent nan and property 108.0
+      [Warning] Ignoring Glenwood, MINNESOTA6, population 2557.0 with violent nan and property 27.0
+      [Warning] Ignoring Golden Valley, MINNESOTA6, population 20787.0 with violent nan and property 518.0
+      [Warning] Ignoring Goodview, MINNESOTA6, population 4055.0 with violent nan and property 84.0
+      [Warning] Ignoring Grand Rapids, MINNESOTA6, population 10932.0 with violent nan and property 482.0
+      [Warning] Ignoring Granite Falls, MINNESOTA6, population 2882.0 with violent nan and property 35.0
+      [Warning] Ignoring Hallock, MINNESOTA6, population 979.0 with violent nan and property 0.0
+      [Warning] Ignoring Hastings, MINNESOTA6, population 22502.0 with violent nan and property 702.0
+      [Warning] Ignoring Hermantown, MINNESOTA6, population 9476.0 with violent nan and property 332.0
+      [Warning] Ignoring Hibbing, MINNESOTA6, population 16469.0 with violent nan and property 90.0
+      [Warning] Ignoring Hilltop, MINNESOTA6, population 755.0 with violent nan and property 92.0
+      [Warning] Ignoring Hokah, MINNESOTA6, population 579.0 with violent nan and property 13.0
+      [Warning] Ignoring Houston, MINNESOTA6, population 979.0 with violent nan and property 19.0
+      [Warning] Ignoring Hoyt Lakes, MINNESOTA6, population 2031.0 with violent nan and property 0.0
+      [Warning] Ignoring Hutchinson, MINNESOTA6, population 14183.0 with violent nan and property 419.0
+      [Warning] Ignoring International Falls, MINNESOTA6, population 6417.0 with violent nan and property 186.0
+      [Warning] Ignoring Inver Grove Heights, MINNESOTA6, population 34394.0 with violent nan and property 843.0
+      [Warning] Ignoring Janesville, MINNESOTA6, population 2286.0 with violent nan and property 16.0
+      [Warning] Ignoring Jordan, MINNESOTA6, population 5619.0 with violent nan and property 67.0
+      [Warning] Ignoring Kasson, MINNESOTA6, population 6016.0 with violent nan and property 39.0
+      [Warning] Ignoring Kimball, MINNESOTA6, population 771.0 with violent nan and property 1.0
+      [Warning] Ignoring La Crescent, MINNESOTA6, population 4864.0 with violent nan and property 0.0
+      [Warning] Ignoring Lake City, MINNESOTA6, population 5080.0 with violent nan and property 80.0
+      [Warning] Ignoring Lake Crystal, MINNESOTA6, population 2582.0 with violent nan and property 52.0
+      [Warning] Ignoring Lakes Area, MINNESOTA6, population 9473.0 with violent nan and property 84.0
+      [Warning] Ignoring Lakeville, MINNESOTA6, population 56805.0 with violent nan and property 756.0
+      [Warning] Ignoring Lauderdale, MINNESOTA6, population 2423.0 with violent nan and property 42.0
+      [Warning] Ignoring Lester Prairie, MINNESOTA6, population 1732.0 with violent nan and property 15.0
+      [Warning] Ignoring Le Sueur, MINNESOTA6, population 4076.0 with violent nan and property 78.0
+      [Warning] Ignoring Lewiston, MINNESOTA6, population 1627.0 with violent nan and property 3.0
+      [Warning] Ignoring Lino Lakes, MINNESOTA6, population 20478.0 with violent nan and property 188.0
+      [Warning] Ignoring Litchfield, MINNESOTA6, population 6758.0 with violent nan and property 118.0
+      [Warning] Ignoring Little Canada, MINNESOTA6, population 9956.0 with violent nan and property 256.0
+      [Warning] Ignoring Little Falls, MINNESOTA6, population 8403.0 with violent nan and property 175.0
+      [Warning] Ignoring Long Prairie, MINNESOTA6, population 3473.0 with violent nan and property 77.0
+      [Warning] Ignoring Mankato, MINNESOTA6, population 39782.0 with violent nan and property 1912.0
+      [Warning] Ignoring Maple Grove, MINNESOTA6, population 62840.0 with violent nan and property 1280.0
+      [Warning] Ignoring Mapleton, MINNESOTA6, population 1777.0 with violent nan and property 20.0
+      [Warning] Ignoring Maplewood, MINNESOTA6, population 38719.0 with violent nan and property 2477.0
+      [Warning] Ignoring Marshall, MINNESOTA6, population 13788.0 with violent nan and property 403.0
+      [Warning] Ignoring Medina, MINNESOTA6, population 4995.0 with violent nan and property 99.0
+      [Warning] Ignoring Melrose, MINNESOTA6, population 3637.0 with violent nan and property 41.0
+      [Warning] Ignoring Mendota Heights, MINNESOTA6, population 11240.0 with violent nan and property 329.0
+      [Warning] Ignoring Milaca, MINNESOTA6, population 2953.0 with violent nan and property 23.0
+      [Warning] Ignoring Minnetonka, MINNESOTA6, population 50758.0 with violent nan and property 836.0
+      [Warning] Ignoring Minnetrista, MINNESOTA6, population 8846.0 with violent nan and property 89.0
+      [Warning] Ignoring Montevideo, MINNESOTA6, population 5365.0 with violent nan and property 99.0
+      [Warning] Ignoring Montgomery, MINNESOTA6, population 2969.0 with violent nan and property 54.0
+      [Warning] Ignoring Moorhead, MINNESOTA6, population 38813.0 with violent nan and property 865.0
+      [Warning] Ignoring Moose Lake, MINNESOTA6, population 2771.0 with violent nan and property 96.0
+      [Warning] Ignoring Morris, MINNESOTA6, population 5299.0 with violent nan and property 141.0
+      [Warning] Ignoring Mound, MINNESOTA6, population 9239.0 with violent nan and property 142.0
+      [Warning] Ignoring Mounds View, MINNESOTA6, population 12384.0 with violent nan and property 408.0
+      [Warning] Ignoring Mountain Iron, MINNESOTA6, population 2887.0 with violent nan and property 0.0
+      [Warning] Ignoring Mountain Lake, MINNESOTA6, population 2117.0 with violent nan and property 0.0
+      [Warning] Ignoring New Brighton, MINNESOTA6, population 21854.0 with violent nan and property 584.0
+      [Warning] Ignoring New Hope, MINNESOTA6, population 20748.0 with violent nan and property 589.0
+      [Warning] Ignoring Newport, MINNESOTA6, population 3503.0 with violent nan and property 173.0
+      [Warning] Ignoring New Prague, MINNESOTA6, population 7448.0 with violent nan and property 108.0
+      [Warning] Ignoring New Richland, MINNESOTA6, population 1220.0 with violent nan and property 0.0
+      [Warning] Ignoring New Ulm, MINNESOTA6, population 13526.0 with violent nan and property 235.0
+      [Warning] Ignoring North Branch, MINNESOTA6, population 10196.0 with violent nan and property 331.0
+      [Warning] Ignoring Northfield, MINNESOTA6, population 20213.0 with violent nan and property 391.0
+      [Warning] Ignoring North Mankato, MINNESOTA6, population 13523.0 with violent nan and property 219.0
+      [Warning] Ignoring North Oaks, MINNESOTA6, population 4552.0 with violent nan and property 30.0
+      [Warning] Ignoring North St. Paul, MINNESOTA6, population 11675.0 with violent nan and property 292.0
+      [Warning] Ignoring Oakdale, MINNESOTA6, population 27921.0 with violent nan and property 1238.0
+      [Warning] Ignoring Oak Park Heights, MINNESOTA6, population 4417.0 with violent nan and property 222.0
+      [Warning] Ignoring Orono, MINNESOTA6, population 11646.0 with violent nan and property 133.0
+      [Warning] Ignoring Ortonville, MINNESOTA6, population 1917.0 with violent nan and property 1.0
+      [Warning] Ignoring Osakis, MINNESOTA6, population 1757.0 with violent nan and property 23.0
+      [Warning] Ignoring Osseo, MINNESOTA6, population 2479.0 with violent nan and property 0.0
+      [Warning] Ignoring Owatonna, MINNESOTA6, population 25734.0 with violent nan and property 612.0
+      [Warning] Ignoring Park Rapids, MINNESOTA6, population 3710.0 with violent nan and property 228.0
+      [Warning] Ignoring Paynesville, MINNESOTA6, population 2459.0 with violent nan and property 64.0
+      [Warning] Ignoring Plainview, MINNESOTA6, population 3350.0 with violent nan and property 0.0
+      [Warning] Ignoring Plymouth, MINNESOTA6, population 72020.0 with violent nan and property 1198.0
+      [Warning] Ignoring Princeton, MINNESOTA6, population 4706.0 with violent nan and property 146.0
+      [Warning] Ignoring Prior Lake, MINNESOTA6, population 23410.0 with violent nan and property 455.0
+      [Warning] Ignoring Proctor, MINNESOTA6, population 3078.0 with violent nan and property 87.0
+      [Warning] Ignoring Ramsey, MINNESOTA6, population 23988.0 with violent nan and property 532.0
+      [Warning] Ignoring Red Wing, MINNESOTA6, population 16578.0 with violent nan and property 655.0
+      [Warning] Ignoring Redwood Falls, MINNESOTA6, population 5260.0 with violent nan and property 177.0
+      [Warning] Ignoring Richfield, MINNESOTA6, population 35953.0 with violent nan and property 928.0
+      [Warning] Ignoring Robbinsdale, MINNESOTA6, population 14239.0 with violent nan and property 443.0
+      [Warning] Ignoring Rochester, MINNESOTA6, population 108582.0 with violent nan and property 2721.0
+      [Warning] Ignoring Rogers, MINNESOTA6, population 8945.0 with violent nan and property 124.0
+      [Warning] Ignoring Roseau, MINNESOTA6, population 2635.0 with violent nan and property 44.0
+      [Warning] Ignoring Rosemount, MINNESOTA6, population 22206.0 with violent nan and property 262.0
+      [Warning] Ignoring Roseville, MINNESOTA6, population 34276.0 with violent nan and property 1491.0
+      [Warning] Ignoring Sartell, MINNESOTA6, population 16056.0 with violent nan and property 384.0
+      [Warning] Ignoring Sauk Centre, MINNESOTA6, population 4367.0 with violent nan and property 95.0
+      [Warning] Ignoring Sauk Rapids, MINNESOTA6, population 12928.0 with violent nan and property 129.0
+      [Warning] Ignoring Savage, MINNESOTA6, population 27635.0 with violent nan and property 666.0
+      [Warning] Ignoring Shakopee, MINNESOTA6, population 38057.0 with violent nan and property 1141.0
+      [Warning] Ignoring Shoreview, MINNESOTA6, population 25513.0 with violent nan and property 282.0
+      [Warning] Ignoring Silver Bay, MINNESOTA6, population 1893.0 with violent nan and property 9.0
+      [Warning] Ignoring Silver Lake, MINNESOTA6, population 836.0 with violent nan and property 6.0
+      [Warning] Ignoring Slayton, MINNESOTA6, population 2145.0 with violent nan and property 12.0
+      [Warning] Ignoring Sleepy Eye, MINNESOTA6, population 3600.0 with violent nan and property 7.0
+      [Warning] Ignoring South Lake Minnetonka, MINNESOTA6, population 11901.0 with violent nan and property 139.0
+      [Warning] Ignoring South St. Paul, MINNESOTA6, population 20465.0 with violent nan and property 542.0
+      [Warning] Ignoring Springfield, MINNESOTA6, population 2152.0 with violent nan and property 0.0
+      [Warning] Ignoring Spring Grove, MINNESOTA6, population 1330.0 with violent nan and property 0.0
+      [Warning] Ignoring Spring Lake Park, MINNESOTA6, population 6498.0 with violent nan and property 344.0
+      [Warning] Ignoring St. Anthony, MINNESOTA6, population 8388.0 with violent nan and property 335.0
+      [Warning] Ignoring Staples, MINNESOTA6, population 2993.0 with violent nan and property 83.0
+      [Warning] Ignoring St. Charles, MINNESOTA6, population 3752.0 with violent nan and property 36.0
+      [Warning] Ignoring St. Francis, MINNESOTA6, population 7315.0 with violent nan and property 167.0
+      [Warning] Ignoring Stillwater, MINNESOTA6, population 18582.0 with violent nan and property 478.0
+      [Warning] Ignoring St. James, MINNESOTA6, population 4637.0 with violent nan and property 113.0
+      [Warning] Ignoring St. Louis Park, MINNESOTA6, population 46176.0 with violent nan and property 1490.0
+      [Warning] Ignoring St. Paul Park, MINNESOTA6, population 5384.0 with violent nan and property 206.0
+      [Warning] Ignoring St. Peter, MINNESOTA6, population 11295.0 with violent nan and property 255.0
+      [Warning] Ignoring Thief River Falls, MINNESOTA6, population 8716.0 with violent nan and property 242.0
+      [Warning] Ignoring Tracy, MINNESOTA6, population 2180.0 with violent nan and property 0.0
+      [Warning] Ignoring Two Harbors, MINNESOTA6, population 3754.0 with violent nan and property 16.0
+      [Warning] Ignoring Vadnais Heights, MINNESOTA6, population 12533.0 with violent nan and property 396.0
+      [Warning] Ignoring Virginia, MINNESOTA6, population 8769.0 with violent nan and property 517.0
+      [Warning] Ignoring Wabasha, MINNESOTA6, population 2529.0 with violent nan and property 73.0
+      [Warning] Ignoring Waite Park, MINNESOTA6, population 6790.0 with violent nan and property 656.0
+      [Warning] Ignoring Warroad, MINNESOTA6, population 1781.0 with violent nan and property 34.0
+      [Warning] Ignoring Waseca, MINNESOTA6, population 9538.0 with violent nan and property 200.0
+      [Warning] Ignoring Wayzata, MINNESOTA6, population 3764.0 with violent nan and property 120.0
+      [Warning] Ignoring Wells, MINNESOTA6, population 2351.0 with violent nan and property 17.0
+      [Warning] Ignoring West Hennepin, MINNESOTA6, population 5380.0 with violent nan and property 60.0
+      [Warning] Ignoring West St. Paul, MINNESOTA6, population 19834.0 with violent nan and property 931.0
+      [Warning] Ignoring Wheaton, MINNESOTA6, population 1419.0 with violent nan and property 15.0
+      [Warning] Ignoring White Bear Lake, MINNESOTA6, population 24241.0 with violent nan and property 790.0
+      [Warning] Ignoring White Bear Township, MINNESOTA6, population 11155.0 with violent nan and property 154.0
+      [Warning] Ignoring Willmar, MINNESOTA6, population 19708.0 with violent nan and property 593.0
+      [Warning] Ignoring Windom, MINNESOTA6, population 4676.0 with violent nan and property 88.0
+      [Warning] Ignoring Winnebago, MINNESOTA6, population 1442.0 with violent nan and property 37.0
+      [Warning] Ignoring Winona, MINNESOTA6, population 27731.0 with violent nan and property 498.0
+      [Warning] Ignoring Winsted, MINNESOTA6, population 2357.0 with violent nan and property 34.0
+      [Warning] Ignoring Woodbury, MINNESOTA6, population 63190.0 with violent nan and property 1448.0
+      [Warning] Ignoring Worthington, MINNESOTA6, population 12858.0 with violent nan and property 206.0
+      [Warning] Ignoring Wyoming, MINNESOTA6, population 7847.0 with violent nan and property 89.0
+      [Warning] Ignoring Zumbrota, MINNESOTA6, population 3277.0 with violent nan and property 57.0
+   Processed MINNESOTA6 for year 2012!
+   Processed MISSISSIPPI for year 2012!
+   Processed MISSOURI for year 2012!
+   Processed MONTANA for year 2012!
+   Processed NEBRASKA for year 2012!
+   Processed NEVADA for year 2012!
+   Processed NEW HAMPSHIRE for year 2012!
+      [Warning] Ignoring Galloway Township7, NEW JERSEY, population 37506.0 with violent nan and property 674.0
+      [Warning] Ignoring Hackensack7, NEW JERSEY, population 43499.0 with violent nan and property 879.0
+      [Warning] Ignoring Jackson Township7, NEW JERSEY, population 55400.0 with violent nan and property 751.0
+   Processed NEW JERSEY for year 2012!
+      [Warning] Ignoring Clayton7, NEW MEXICO, population 2916.0 with violent 16.0 and property nan
+      [Warning] Ignoring Grants7, NEW MEXICO, population 9347.0 with violent nan and property 290.0
+      [Warning] Ignoring Los Alamos7, NEW MEXICO, population 18251.0 with violent 59.0 and property nan
+   Processed NEW MEXICO for year 2012!
+   Processed NEW YORK3 for year 2012!
+   Processed NORTH CAROLINA for year 2012!
+   Processed NORTH DAKOTA for year 2012!
+      [Warning] Ignoring Toledo4, OHIO, population 286020.0 with violent 3352.0 and property nan
+   Processed OHIO for year 2012!
+   Processed OKLAHOMA for year 2012!
+   Processed OREGON for year 2012!
+      [Warning] Ignoring Darby4, PENNSYLVANIA, population 10711.0 with violent nan and property 498.0
+      [Warning] Ignoring McKeesport4, PENNSYLVANIA, population 21603.0 with violent nan and property 721.0
+   Processed PENNSYLVANIA for year 2012!
+   Processed RHODE ISLAND for year 2012!
+   Processed SOUTH CAROLINA for year 2012!
+   Processed SOUTH DAKOTA for year 2012!
+   Processed TENNESSEE for year 2012!
+      [Warning] Ignoring Aransas Pass7, TEXAS, population 8325.0 with violent 48.0 and property nan
+      [Warning] Ignoring Forney7, TEXAS, population 15174.0 with violent 21.0 and property nan
+      [Warning] Ignoring Humble7, TEXAS, population 15684.0 with violent 106.0 and property nan
+      [Warning] Ignoring Temple7, TEXAS, population 68194.0 with violent 202.0 and property nan
+   Processed TEXAS for year 2012!
+   Processed UTAH for year 2012!
+   Processed VERMONT for year 2012!
+   Processed VIRGINIA for year 2012!
+      [Warning] Ignoring Puyallup5, WASHINGTON, population 37821.0 with violent 96.0 and property nan
+   Processed WASHINGTON for year 2012!
+      [Warning] Ignoring Hurricane5, WEST VIRGINIA, population 6333.0 with violent 11.0 and property nan
+   Processed WEST VIRGINIA for year 2012!
+      [Warning] Ignoring New Richmond7, WISCONSIN, population 8454.0 with violent 13.0 and property nan
+   Processed WISCONSIN for year 2012!
+   Processed WYOMING for year 2012!
+      [Warning] Ignoring Tallassee5, ALABAMA, population 4830.0 with violent nan and property 296.0
+   Processed ALABAMA for year 2013!
+   Processed ALASKA for year 2013!
+   Processed ARIZONA for year 2013!
+   Processed ARKANSAS for year 2013!
+   Processed CALIFORNIA for year 2013!
+   Processed COLORADO for year 2013!
+   Processed CONNECTICUT for year 2013!
+   Processed DELAWARE for year 2013!
+   Processed DISTRICT OF COLUMBIA for year 2013!
+      [Warning] Ignoring Dunnellon7, FLORIDA, population 1750.0 with violent 9.0 and property nan
+   Processed FLORIDA for year 2013!
+   Processed GEORGIA for year 2013!
+   Processed IDAHO for year 2013!
+      [Warning] Ignoring Chicago7, 8, ILLINOIS, population 2720554.0 with violent nan and property 95908.0
+   Processed ILLINOIS for year 2013!
+      [Warning] Ignoring Sellersburg5, INDIANA, population 6150.0 with violent nan and property 109.0
+      [Warning] Ignoring Shelbyville5, INDIANA, population 19159.0 with violent nan and property 448.0
+   Processed INDIANA for year 2013!
+   Processed IOWA for year 2013!
+   Processed KANSAS for year 2013!
+   Processed KENTUCKY for year 2013!
+   Processed LOUISIANA for year 2013!
+   Processed MAINE for year 2013!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2013!
+   Processed MASSACHUSETTS for year 2013!
+   Processed MICHIGAN for year 2013!
+   Processed MINNESOTA for year 2013!
+   Processed MISSISSIPPI for year 2013!
+   Processed MISSOURI for year 2013!
+   Processed MONTANA for year 2013!
+   Processed NEBRASKA for year 2013!
+   Processed NEVADA for year 2013!
+   Processed NEW HAMPSHIRE for year 2013!
+   Processed NEW JERSEY for year 2013!
+   Processed NEW MEXICO for year 2013!
+   Processed NEW YORK for year 2013!
+   Processed NORTH CAROLINA for year 2013!
+   Processed NORTH DAKOTA for year 2013!
+      [Warning] Ignoring Toledo10, OHIO, population 283035.0 with violent 2902.0 and property nan
+   Processed OHIO for year 2013!
+   Processed OKLAHOMA for year 2013!
+      [Warning] Ignoring Black Butte, OREGON, population nan with violent 0.0 and property 5.0
+      [Warning] Ignoring Sunriver, OREGON, population nan with violent 2.0 and property 80.0
+   Processed OREGON for year 2013!
+   Processed PENNSYLVANIA for year 2013!
+   Processed RHODE ISLAND for year 2013!
+   Processed SOUTH CAROLINA for year 2013!
+   Processed SOUTH DAKOTA for year 2013!
+   Processed TENNESSEE for year 2013!
+   Processed TEXAS for year 2013!
+      [Warning] Ignoring Bountiful5, UTAH, population 42976.0 with violent 61.0 and property nan
+      [Warning] Ignoring Hurricane5, UTAH, population 14558.0 with violent 14.0 and property nan
+   Processed UTAH for year 2013!
+   Processed VERMONT for year 2013!
+   Processed VIRGINIA for year 2013!
+   Processed WASHINGTON for year 2013!
+   Processed WEST VIRGINIA for year 2013!
+   Processed WISCONSIN for year 2013!
+   Processed WYOMING for year 2013!
+      [Warning] Ignoring Boaz4, ALABAMA, population 9747.0 with violent 36.0 and property nan
+      [Warning] Ignoring Midfield4, ALABAMA, population 5265.0 with violent 36.0 and property nan
+   Processed ALABAMA for year 2014!
+   Processed ALASKA for year 2014!
+   Processed ARIZONA for year 2014!
+   Processed ARKANSAS for year 2014!
+   Processed CALIFORNIA for year 2014!
+      [Warning] Ignoring Castle Rock4, COLORADO, population 54253.0 with violent 41.0 and property nan
+      [Warning] Ignoring Louisville4, COLORADO, population 19888.0 with violent 15.0 and property nan
+   Processed COLORADO for year 2014!
+   Processed CONNECTICUT for year 2014!
+   Processed DELAWARE for year 2014!
+   Processed DISTRICT OF COLUMBIA for year 2014!
+   Processed FLORIDA for year 2014!
+   Processed GEORGIA7 for year 2014!
+   Processed IDAHO for year 2014!
+   Processed ILLINOIS for year 2014!
+   Processed INDIANA for year 2014!
+   Processed IOWA for year 2014!
+      [Warning] Ignoring El Dorado8, KANSAS, population 12809.0 with violent 36.0 and property nan
+      [Warning] Ignoring McPherson8, KANSAS, population 13369.0 with violent 27.0 and property nan
+   Processed KANSAS for year 2014!
+   Processed KENTUCKY for year 2014!
+      [Warning] Ignoring Ferriday8, LOUISIANA, population 3437.0 with violent nan and property 220.0
+      [Warning] Ignoring Monroe8, LOUISIANA, population 49900.0 with violent nan and property 5098.0
+      [Warning] Ignoring Sulphur4, 6, LOUISIANA, population 20084.0 with violent nan and property 1106.0
+      [Warning] Ignoring West Monroe6, 7, 8, LOUISIANA, population 13096.0 with violent nan and property 1096.0
+   Processed LOUISIANA for year 2014!
+   Processed MAINE for year 2014!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2014!
+      [Warning] Ignoring Cohasset8, MASSACHUSETTS, population 8493.0 with violent 4.0 and property nan
+   Processed MASSACHUSETTS for year 2014!
+      [Warning] Ignoring Grand Rapids4, MICHIGAN, population 193385.0 with violent 1381.0 and property nan
+   Processed MICHIGAN for year 2014!
+   Processed MINNESOTA for year 2014!
+   Processed MISSISSIPPI for year 2014!
+   Processed MISSOURI for year 2014!
+   Processed MONTANA for year 2014!
+   Processed NEBRASKA for year 2014!
+   Processed NEVADA for year 2014!
+   Processed NEW HAMPSHIRE for year 2014!
+   Processed NEW JERSEY for year 2014!
+   Processed NEW MEXICO for year 2014!
+      [Warning] Ignoring Woodbury Town4, 6, NEW YORK, population 10739.0 with violent 4.0 and property nan
+   Processed NEW YORK for year 2014!
+   Processed NORTH CAROLINA for year 2014!
+   Processed NORTH DAKOTA for year 2014!
+      [Warning] Ignoring Streetsboro8, OHIO, population 16152.0 with violent 11.0 and property nan
+      [Warning] Ignoring Struthers8, OHIO, population 10451.0 with violent 31.0 and property nan
+      [Warning] Ignoring Sylvania Township4, OHIO, population 29425.0 with violent 37.0 and property nan
+      [Warning] Ignoring Toledo9, OHIO, population 281150.0 with violent 3068.0 and property nan
+      [Warning] Ignoring Union4, OHIO, population 6373.0 with violent 3.0 and property nan
+   Processed OHIO for year 2014!
+   Processed OKLAHOMA for year 2014!
+      [Warning] Ignoring Sunriver, OREGON, population nan with violent 2.0 and property 56.0
+   Processed OREGON for year 2014!
+   Processed PENNSYLVANIA for year 2014!
+   Processed RHODE ISLAND for year 2014!
+      [Warning] Ignoring Summerton8, SOUTH CAROLINA, population 980.0 with violent 9.0 and property nan
+   Processed SOUTH CAROLINA for year 2014!
+   Processed SOUTH DAKOTA for year 2014!
+   Processed TENNESSEE for year 2014!
+   Processed TEXAS for year 2014!
+   Processed UTAH for year 2014!
+   Processed VERMONT for year 2014!
+   Processed VIRGINIA for year 2014!
+   Processed WASHINGTON for year 2014!
+      [Warning] Ignoring Parkersburg4, WEST VIRGINIA, population 31139.0 with violent 88.0 and property nan
+   Processed WEST VIRGINIA for year 2014!
+      [Warning] Ignoring Algoma4, WISCONSIN, population 3116.0 with violent 1.0 and property nan
+      [Warning] Ignoring Fennimore4, WISCONSIN, population 2484.0 with violent 0.0 and property nan
+      [Warning] Ignoring Stanley4, WISCONSIN, population 3627.0 with violent 2.0 and property nan
+   Processed WISCONSIN for year 2014!
+   Processed WYOMING for year 2014!
+   Processed ALABAMA for year 2015!
+   Processed ALASKA for year 2015!
+   Processed ARIZONA for year 2015!
+   Processed ARKANSAS for year 2015!
+   Processed CALIFORNIA for year 2015!
+      [Warning] Ignoring Federal Heights6, COLORADO, population 12351.0 with violent 62.0 and property nan
+      [Warning] Ignoring Lafayette6, COLORADO, population 27761.0 with violent nan and property 565.0
+      [Warning] Ignoring Thornton7, COLORADO, population 133188.0 with violent 325.0 and property nan
+   Processed COLORADO for year 2015!
+   Processed CONNECTICUT for year 2015!
+   Processed DELAWARE for year 2015!
+   Processed DISTRICT OF COLUMBIA for year 2015!
+   Processed FLORIDA for year 2015!
+   Processed GEORGIA for year 2015!
+   Processed HAWAII for year 2015!
+   Processed IDAHO for year 2015!
+   Processed ILLINOIS for year 2015!
+      [Warning] Ignoring Crawfordsville6, INDIANA, population 16007.0 with violent nan and property 364.0
+   Processed INDIANA for year 2015!
+   Processed IOWA for year 2015!
+      [Warning] Ignoring Chanute8, KANSAS, population 9341.0 with violent 41.0 and property nan
+      [Warning] Ignoring Coffeyville8, KANSAS, population 9782.0 with violent 61.0 and property nan
+      [Warning] Ignoring El Dorado8, KANSAS, population 12843.0 with violent 49.0 and property nan
+      [Warning] Ignoring Hiawatha8, KANSAS, population 3093.0 with violent 5.0 and property nan
+   Processed KANSAS for year 2015!
+   Processed KENTUCKY for year 2015!
+   Processed LOUISIANA for year 2015!
+   Processed MAINE for year 2015!
+   Processed MARYLAND for year 2015!
+   Processed MASSACHUSETTS for year 2015!
+   Processed MICHIGAN for year 2015!
+   Processed MINNESOTA for year 2015!
+   Processed MISSISSIPPI for year 2015!
+   Processed MISSOURI for year 2015!
+   Processed MONTANA for year 2015!
+   Processed NEBRASKA for year 2015!
+   Processed NEVADA for year 2015!
+   Processed NEW HAMPSHIRE for year 2015!
+   Processed NEW JERSEY9 for year 2015!
+   Processed NEW MEXICO for year 2015!
+   Processed NEW YORK for year 2015!
+   Processed NORTH CAROLINA for year 2015!
+   Processed NORTH DAKOTA for year 2015!
+   Processed OHIO for year 2015!
+   Processed OKLAHOMA for year 2015!
+   Processed OREGON for year 2015!
+   Processed PENNSYLVANIA for year 2015!
+   Processed RHODE ISLAND for year 2015!
+      [Warning] Ignoring Simpsonville6, 7, SOUTH CAROLINA, population 20566.0 with violent 57.0 and property nan
+   Processed SOUTH CAROLINA for year 2015!
+   Processed SOUTH DAKOTA for year 2015!
+   Processed TENNESSEE for year 2015!
+      [Warning] Ignoring Arcola6, TEXAS, population 1672.0 with violent 4.0 and property nan
+   Processed TEXAS for year 2015!
+      [Warning] Ignoring Centerville6, UTAH, population 17201.0 with violent 23.0 and property nan
+      [Warning] Ignoring Kaysville6, UTAH, population 30008.0 with violent 12.0 and property nan
+      [Warning] Ignoring West Valley6, UTAH, population 135744.0 with violent 766.0 and property nan
+   Processed UTAH for year 2015!
+   Processed VERMONT for year 2015!
+   Processed VIRGINIA for year 2015!
+   Processed WASHINGTON for year 2015!
+   Processed WEST VIRGINIA for year 2015!
+   Processed WISCONSIN for year 2015!
+   Processed WYOMING for year 2015!
+      [Warning] Ignoring Dothan4, ALABAMA, population 69071.0 with violent nan and property 2808.0
+      [Warning] Ignoring Hoover5, ALABAMA, population 85601.0 with violent 104.0 and property nan
+   Processed ALABAMA for year 2016!
+   Processed ALASKA for year 2016!
+   Processed ARIZONA for year 2016!
+      [Warning] Ignoring Austin4, ARKANSAS, population 3723.0 with violent 8.0 and property nan
+      [Warning] Ignoring Farmington4, ARKANSAS, population 6852.0 with violent nan and property 112.0
+      [Warning] Ignoring Osceola4, ARKANSAS, population 7138.0 with violent 161.0 and property nan
+   Processed ARKANSAS for year 2016!
+   Processed CALIFORNIA for year 2016!
+   Processed COLORADO for year 2016!
+   Processed CONNECTICUT for year 2016!
+   Processed DELAWARE for year 2016!
+   Processed DISTRICT OF COLUMBIA for year 2016!
+   Processed FLORIDA for year 2016!
+   Processed GEORGIA for year 2016!
+   Processed HAWAII for year 2016!
+   Processed IDAHO for year 2016!
+      [Warning] Ignoring Beardstown5, ILLINOIS, population 5664.0 with violent 62.0 and property nan
+   Processed ILLINOIS for year 2016!
+   Processed INDIANA for year 2016!
+      [Warning] Ignoring Bettendorf4, IOWA, population 35946.0 with violent 59.0 and property nan
+      [Warning] Ignoring Clive5, IOWA, population 17836.0 with violent 26.0 and property nan
+      [Warning] Ignoring Mount Pleasant4, IOWA, population 8389.0 with violent 12.0 and property nan
+      [Warning] Ignoring Mount Vernon4, IOWA, population 4482.0 with violent 3.0 and property nan
+      [Warning] Ignoring Pleasant Hill5, IOWA, population 9415.0 with violent 26.0 and property nan
+      [Warning] Ignoring West Burlington4, IOWA, population 3055.0 with violent 8.0 and property nan
+   Processed IOWA for year 2016!
+      [Warning] Ignoring Coffeyville9, KANSAS, population 9555.0 with violent 83.0 and property nan
+      [Warning] Ignoring Concordia9, KANSAS, population 5183.0 with violent 21.0 and property nan
+      [Warning] Ignoring Leavenworth9, KANSAS, population 36100.0 with violent 234.0 and property nan
+      [Warning] Ignoring Russell9, KANSAS, population 4537.0 with violent 18.0 and property nan
+      [Warning] Ignoring Wellington9, KANSAS, population 7954.0 with violent 12.0 and property nan
+   Processed KANSAS for year 2016!
+   Processed KENTUCKY for year 2016!
+      [Warning] Ignoring Bunkie4, LOUISIANA, population 4044.0 with violent nan and property 50.0
+   Processed LOUISIANA for year 2016!
+   Processed MAINE for year 2016!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2016!
+      [Warning] Ignoring Brookline4, MASSACHUSETTS, population 59033.0 with violent nan and property 610.0
+      [Warning] Ignoring Gardner4, MASSACHUSETTS, population 20277.0 with violent nan and property 509.0
+      [Warning] Ignoring Yarmouth4, MASSACHUSETTS, population 23299.0 with violent nan and property 468.0
+   Processed MASSACHUSETTS for year 2016!
+   Processed MICHIGAN for year 2016!
+   Processed MINNESOTA for year 2016!
+   Processed MISSISSIPPI for year 2016!
+      [Warning] Ignoring Hazelwood4, MISSOURI, population 25655.0 with violent nan and property 870.0
+   Processed MISSOURI for year 2016!
+   Processed MONTANA for year 2016!
+   Processed NEBRASKA for year 2016!
+   Processed NEVADA for year 2016!
+   Processed NEW HAMPSHIRE for year 2016!
+   Processed NEW JERSEY for year 2016!
+   Processed NEW MEXICO for year 2016!
+   Processed NEW YORK for year 2016!
+      [Warning] Ignoring Rocky Mount5, NORTH CAROLINA, population 55431.0 with violent 435.0 and property nan
+      [Warning] Ignoring Weaverville5, NORTH CAROLINA, population 3988.0 with violent 4.0 and property nan
+   Processed NORTH CAROLINA for year 2016!
+   Processed NORTH DAKOTA for year 2016!
+   Processed OHIO for year 2016!
+   Processed OKLAHOMA for year 2016!
+      [Warning] Ignoring Black Butte, OREGON, population nan with violent 0.0 and property 6.0
+      [Warning] Ignoring Sunriver, OREGON, population nan with violent 4.0 and property 65.0
+   Processed OREGON for year 2016!
+      [Warning] Ignoring Bethlehem5, PENNSYLVANIA, population 74869.0 with violent nan and property 1487.0
+      [Warning] Ignoring Mahoning Township, Carbon County4, PENNSYLVANIA, population 4211.0 with violent 18.0 and property nan
+   Processed PENNSYLVANIA for year 2016!
+      [Warning] Ignoring New Shoreham5, RHODE ISLAND, population 1046.0 with violent 0.0 and property nan
+      [Warning] Ignoring Pawtucket4, RHODE ISLAND, population 71640.0 with violent 305.0 and property nan
+      [Warning] Ignoring Providence5, RHODE ISLAND, population 179340.0 with violent 1031.0 and property nan
+   Processed RHODE ISLAND for year 2016!
+   Processed SOUTH CAROLINA for year 2016!
+   Processed SOUTH DAKOTA for year 2016!
+   Processed TENNESSEE for year 2016!
+      [Warning] Ignoring Tyler5, TEXAS, population 105044.0 with violent 429.0 and property nan
+   Processed TEXAS for year 2016!
+   Processed UTAH for year 2016!
+   Processed VERMONT for year 2016!
+   Processed VIRGINIA for year 2016!
+   Processed WASHINGTON for year 2016!
+      [Warning] Ignoring Huntington5, WEST VIRGINIA, population 48540.0 with violent 378.0 and property nan
+   Processed WEST VIRGINIA for year 2016!
+   Processed WISCONSIN for year 2016!
+   Processed WYOMING for year 2016!
+   Processed ALABAMA for year 2017!
+   Processed ALASKA for year 2017!
+      [Warning] Ignoring Bullhead City4, ARIZONA, population 40039.0 with violent nan and property 1480.0
+   Processed ARIZONA for year 2017!
+   Processed ARKANSAS for year 2017!
+      [Warning] Ignoring Lafayette5, CALIFORNIA, population 26492.0 with violent 7.0 and property nan
+   Processed CALIFORNIA for year 2017!
+      [Warning] Ignoring Thornton5, COLORADO, population 139825.0 with violent 490.0 and property nan
+   Processed COLORADO for year 2017!
+   Processed CONNECTICUT for year 2017!
+   Processed DELAWARE for year 2017!
+   Processed DISTRICT OF COLUMBIA for year 2017!
+   Processed FLORIDA for year 2017!
+      [Warning] Ignoring Garden City5, GEORGIA, population 8932.0 with violent 157.0 and property nan
+   Processed GEORGIA for year 2017!
+   Processed HAWAII for year 2017!
+      [Warning] Ignoring Orofino5, IDAHO, population 3039.0 with violent 8.0 and property nan
+   Processed IDAHO for year 2017!
+   Processed ILLINOIS for year 2017!
+      [Warning] Ignoring Beech Grove7, INDIANA, population 14831.0 with violent nan and property 338.0
+      [Warning] Ignoring Berne7, INDIANA, population 4118.0 with violent nan and property 16.0
+      [Warning] Ignoring Bluffton8, INDIANA, population 10011.0 with violent 7.0 and property nan
+      [Warning] Ignoring Bremen7, INDIANA, population 4547.0 with violent nan and property 61.0
+      [Warning] Ignoring Brownsburg7, INDIANA, population 26030.0 with violent nan and property 298.0
+      [Warning] Ignoring Cedar Lake7, INDIANA, population 12286.0 with violent nan and property 198.0
+      [Warning] Ignoring Charlestown7, INDIANA, population 8248.0 with violent nan and property 128.0
+      [Warning] Ignoring Columbus7, INDIANA, population 47322.0 with violent nan and property 1904.0
+      [Warning] Ignoring Danville7, INDIANA, population 9783.0 with violent nan and property 115.0
+      [Warning] Ignoring Elkhart7, INDIANA, population 52330.0 with violent nan and property 1837.0
+      [Warning] Ignoring Goshen7, INDIANA, population 33195.0 with violent nan and property 1118.0
+      [Warning] Ignoring Kendallville7, INDIANA, population 9915.0 with violent nan and property 226.0
+      [Warning] Ignoring Merrillville5, INDIANA, population 34999.0 with violent nan and property 1286.0
+      [Warning] Ignoring Mishawaka8, INDIANA, population 48749.0 with violent 105.0 and property nan
+      [Warning] Ignoring Nappanee7, INDIANA, population 6800.0 with violent nan and property 103.0
+      [Warning] Ignoring Noblesville7, INDIANA, population 61527.0 with violent nan and property 810.0
+      [Warning] Ignoring Peru7, INDIANA, population 11009.0 with violent nan and property 436.0
+      [Warning] Ignoring Rushville7, INDIANA, population 6022.0 with violent nan and property 232.0
+      [Warning] Ignoring Scottsburg7, INDIANA, population 6669.0 with violent nan and property 307.0
+      [Warning] Ignoring Shelbyville7, INDIANA, population 19047.0 with violent nan and property 533.0
+      [Warning] Ignoring South Whitley7, INDIANA, population 1733.0 with violent nan and property 8.0
+      [Warning] Ignoring Warsaw7, INDIANA, population 14850.0 with violent nan and property 613.0
+      [Warning] Ignoring Whiting7, INDIANA, population 4805.0 with violent nan and property 102.0
+   Processed INDIANA for year 2017!
+      [Warning] Ignoring Adel5, IOWA, population 4397.0 with violent 14.0 and property nan
+   Processed IOWA for year 2017!
+      [Warning] Ignoring Goodland5, KANSAS, population 4433.0 with violent 13.0 and property nan
+      [Warning] Ignoring Hillsboro5, KANSAS, population 2870.0 with violent 3.0 and property nan
+   Processed KANSAS for year 2017!
+      [Warning] Ignoring Somerset5, KENTUCKY, population 11531.0 with violent 23.0 and property nan
+   Processed KENTUCKY for year 2017!
+      [Warning] Ignoring Abbeville8, LOUISIANA, population 12491.0 with violent 98.0 and property nan
+   Processed LOUISIANA for year 2017!
+   Processed MAINE for year 2017!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2017!
+   Processed MASSACHUSETTS for year 2017!
+   Processed MICHIGAN for year 2017!
+   Processed MINNESOTA for year 2017!
+      [Warning] Ignoring Ackerman7, MISSISSIPPI, population 1458.0 with violent nan and property 44.0
+      [Warning] Ignoring Clinton7, MISSISSIPPI, population 25202.0 with violent nan and property 493.0
+      [Warning] Ignoring Edwards7, MISSISSIPPI, population 1001.0 with violent nan and property 22.0
+      [Warning] Ignoring Florence7, MISSISSIPPI, population 4438.0 with violent nan and property 20.0
+      [Warning] Ignoring Fulton7, MISSISSIPPI, population 4085.0 with violent nan and property 215.0
+      [Warning] Ignoring Holly Springs7, MISSISSIPPI, population 7682.0 with violent nan and property 259.0
+      [Warning] Ignoring Iuka7, MISSISSIPPI, population 2983.0 with violent nan and property 104.0
+      [Warning] Ignoring Jackson7, MISSISSIPPI, population 168397.0 with violent nan and property 7449.0
+      [Warning] Ignoring McComb7, MISSISSIPPI, population 12812.0 with violent nan and property 833.0
+      [Warning] Ignoring Petal7, MISSISSIPPI, population 10743.0 with violent nan and property 90.0
+      [Warning] Ignoring Summit7, MISSISSIPPI, population 1642.0 with violent nan and property 33.0
+      [Warning] Ignoring Vicksburg7, MISSISSIPPI, population 22772.0 with violent nan and property 1362.0
+      [Warning] Ignoring Waveland7, MISSISSIPPI, population 6426.0 with violent nan and property 348.0
+      [Warning] Ignoring Wiggins7, MISSISSIPPI, population 4567.0 with violent nan and property 257.0
+   Processed MISSISSIPPI for year 2017!
+      [Warning] Ignoring Hillsdale4, MISSOURI, population 1574.0 with violent nan and property 36.0
+      [Warning] Ignoring Holts Summit5, MISSOURI, population 3784.0 with violent nan and property 62.0
+      [Warning] Ignoring Northwoods8, MISSOURI, population 4138.0 with violent nan and property 115.0
+   Processed MISSOURI for year 2017!
+   Processed MONTANA for year 2017!
+   Processed NEBRASKA for year 2017!
+   Processed NEVADA for year 2017!
+   Processed NEW HAMPSHIRE for year 2017!
+   Processed NEW JERSEY for year 2017!
+   Processed NEW MEXICO for year 2017!
+   Processed NEW YORK for year 2017!
+      [Warning] Ignoring Aberdeen, NORTH CAROLINA7, population 7707.0 with violent nan and property 275.0
+      [Warning] Ignoring Albemarle, NORTH CAROLINA7, population 16022.0 with violent nan and property 738.0
+      [Warning] Ignoring Angier, NORTH CAROLINA7, population 5227.0 with violent nan and property 120.0
+      [Warning] Ignoring Apex, NORTH CAROLINA7, population 49159.0 with violent nan and property 643.0
+      [Warning] Ignoring Archdale, NORTH CAROLINA7, population 11664.0 with violent nan and property 192.0
+      [Warning] Ignoring Asheboro, NORTH CAROLINA7, population 26253.0 with violent nan and property 1527.0
+      [Warning] Ignoring Asheville, NORTH CAROLINA7, population 90103.0 with violent nan and property 4248.0
+      [Warning] Ignoring Atlantic Beach, NORTH CAROLINA7, population 1491.0 with violent nan and property 108.0
+      [Warning] Ignoring Ayden, NORTH CAROLINA7, population 5215.0 with violent nan and property 167.0
+      [Warning] Ignoring Bailey, NORTH CAROLINA7, population 568.0 with violent nan and property 14.0
+      [Warning] Ignoring Banner Elk, NORTH CAROLINA7, population 1166.0 with violent nan and property 12.0
+      [Warning] Ignoring Beaufort, NORTH CAROLINA7, population 4223.0 with violent nan and property 141.0
+      [Warning] Ignoring Beech Mountain, NORTH CAROLINA7, population 321.0 with violent nan and property 19.0
+      [Warning] Ignoring Belhaven, NORTH CAROLINA7, population 1572.0 with violent nan and property 26.0
+      [Warning] Ignoring Belmont, NORTH CAROLINA7, population 10880.0 with violent nan and property 634.0
+      [Warning] Ignoring Benson, NORTH CAROLINA7, population 3764.0 with violent nan and property 187.0
+      [Warning] Ignoring Bessemer City, NORTH CAROLINA7, population 5586.0 with violent nan and property 92.0
+      [Warning] Ignoring Beulaville, NORTH CAROLINA7, population 1326.0 with violent nan and property 26.0
+      [Warning] Ignoring Biltmore Forest, NORTH CAROLINA7, population 1482.0 with violent nan and property 15.0
+      [Warning] Ignoring Biscoe, NORTH CAROLINA7, population 1676.0 with violent nan and property 119.0
+      [Warning] Ignoring Black Mountain, NORTH CAROLINA7, population 8477.0 with violent nan and property 111.0
+      [Warning] Ignoring Blowing Rock, NORTH CAROLINA7, population 1297.0 with violent nan and property 22.0
+      [Warning] Ignoring Boone, NORTH CAROLINA7, population 19138.0 with violent nan and property 382.0
+      [Warning] Ignoring Brevard, NORTH CAROLINA7, population 7846.0 with violent nan and property 174.0
+      [Warning] Ignoring Bunn, NORTH CAROLINA7, population 362.0 with violent nan and property 21.0
+      [Warning] Ignoring Burgaw, NORTH CAROLINA7, population 4135.0 with violent nan and property 211.0
+      [Warning] Ignoring Burlington, NORTH CAROLINA7, population 52986.0 with violent nan and property 2016.0
+      [Warning] Ignoring Burnsville, NORTH CAROLINA7, population 1650.0 with violent nan and property 39.0
+      [Warning] Ignoring Butner, NORTH CAROLINA7, population 7718.0 with violent nan and property 157.0
+      [Warning] Ignoring Carrboro, NORTH CAROLINA7, population 21553.0 with violent nan and property 430.0
+      [Warning] Ignoring Carthage, NORTH CAROLINA7, population 2463.0 with violent nan and property 82.0
+      [Warning] Ignoring Cary, NORTH CAROLINA7, population 166986.0 with violent nan and property 1795.0
+      [Warning] Ignoring Chapel Hill, NORTH CAROLINA7, population 59553.0 with violent nan and property 1284.0
+      [Warning] Ignoring Charlotte-Mecklenburg, NORTH CAROLINA7, population 914609.0 with violent nan and property 34894.0
+      [Warning] Ignoring Clayton, NORTH CAROLINA7, population 21012.0 with violent nan and property 367.0
+      [Warning] Ignoring Cleveland, NORTH CAROLINA7, population 879.0 with violent nan and property 29.0
+      [Warning] Ignoring Clinton, NORTH CAROLINA7, population 8666.0 with violent nan and property 477.0
+      [Warning] Ignoring Columbus, NORTH CAROLINA7, population 979.0 with violent nan and property 27.0
+      [Warning] Ignoring Concord, NORTH CAROLINA7, population 91756.0 with violent nan and property 1791.0
+      [Warning] Ignoring Conover, NORTH CAROLINA7, population 8354.0 with violent nan and property 452.0
+      [Warning] Ignoring Cramerton, NORTH CAROLINA7, population 4461.0 with violent nan and property 106.0
+      [Warning] Ignoring Creedmoor, NORTH CAROLINA7, population 4563.0 with violent nan and property 139.0
+      [Warning] Ignoring Davidson, NORTH CAROLINA7, population 12723.0 with violent nan and property 157.0
+      [Warning] Ignoring Dobson, NORTH CAROLINA7, population 1591.0 with violent nan and property 62.0
+      [Warning] Ignoring Drexel, NORTH CAROLINA7, population 1872.0 with violent nan and property 22.0
+      [Warning] Ignoring Duck, NORTH CAROLINA7, population 386.0 with violent nan and property 46.0
+      [Warning] Ignoring Durham, NORTH CAROLINA7, population 269088.0 with violent nan and property 10296.0
+      [Warning] Ignoring Eden, NORTH CAROLINA7, population 15321.0 with violent nan and property 572.0
+      [Warning] Ignoring Edenton, NORTH CAROLINA7, population 4823.0 with violent nan and property 118.0
+      [Warning] Ignoring Elizabeth City, NORTH CAROLINA7, population 17802.0 with violent nan and property 821.0
+      [Warning] Ignoring Elkin, NORTH CAROLINA7, population 4120.0 with violent nan and property 337.0
+      [Warning] Ignoring Elon, NORTH CAROLINA7, population 10283.0 with violent nan and property 52.0
+      [Warning] Ignoring Emerald Isle, NORTH CAROLINA7, population 3710.0 with violent nan and property 179.0
+      [Warning] Ignoring Erwin, NORTH CAROLINA7, population 5017.0 with violent nan and property 212.0
+      [Warning] Ignoring Fairmont, NORTH CAROLINA7, population 2680.0 with violent nan and property 137.0
+      [Warning] Ignoring Farmville, NORTH CAROLINA7, population 4759.0 with violent nan and property 217.0
+      [Warning] Ignoring Fayetteville, NORTH CAROLINA7, population 205432.0 with violent nan and property 8811.0
+      [Warning] Ignoring Fletcher, NORTH CAROLINA7, population 8237.0 with violent nan and property 119.0
+      [Warning] Ignoring Fuquay-Varina, NORTH CAROLINA7, population 27429.0 with violent nan and property 376.0
+      [Warning] Ignoring Garner, NORTH CAROLINA7, population 29287.0 with violent nan and property 1082.0
+      [Warning] Ignoring Gastonia, NORTH CAROLINA7, population 76191.0 with violent nan and property 3714.0
+      [Warning] Ignoring Gibsonville, NORTH CAROLINA7, population 7131.0 with violent nan and property 99.0
+      [Warning] Ignoring Goldsboro, NORTH CAROLINA7, population 35824.0 with violent nan and property 1796.0
+      [Warning] Ignoring Granite Falls, NORTH CAROLINA7, population 4680.0 with violent nan and property 220.0
+      [Warning] Ignoring Greensboro, NORTH CAROLINA7, population 290051.0 with violent nan and property 10332.0
+      [Warning] Ignoring Greenville, NORTH CAROLINA7, population 92630.0 with violent nan and property 3394.0
+      [Warning] Ignoring Havelock, NORTH CAROLINA7, population 20157.0 with violent nan and property 486.0
+      [Warning] Ignoring Haw River, NORTH CAROLINA7, population 2467.0 with violent nan and property 78.0
+      [Warning] Ignoring Henderson, NORTH CAROLINA7, population 15131.0 with violent nan and property 673.0
+      [Warning] Ignoring Hendersonville, NORTH CAROLINA7, population 13967.0 with violent nan and property 691.0
+      [Warning] Ignoring Hertford, NORTH CAROLINA7, population 2122.0 with violent nan and property 50.0
+      [Warning] Ignoring Hickory, NORTH CAROLINA7, population 40653.0 with violent nan and property 2093.0
+      [Warning] Ignoring Highlands, NORTH CAROLINA7, population 944.0 with violent nan and property 34.0
+      [Warning] Ignoring High Point, NORTH CAROLINA7, population 112368.0 with violent nan and property 4161.0
+      [Warning] Ignoring Hillsborough, NORTH CAROLINA7, population 6640.0 with violent nan and property 345.0
+      [Warning] Ignoring Holly Ridge, NORTH CAROLINA7, population 2466.0 with violent nan and property 48.0
+      [Warning] Ignoring Holly Springs, NORTH CAROLINA7, population 34897.0 with violent nan and property 317.0
+      [Warning] Ignoring Hope Mills, NORTH CAROLINA7, population 16325.0 with violent nan and property 809.0
+      [Warning] Ignoring Hudson, NORTH CAROLINA7, population 3717.0 with violent nan and property 96.0
+      [Warning] Ignoring Huntersville, NORTH CAROLINA7, population 56279.0 with violent nan and property 993.0
+      [Warning] Ignoring Indian Beach, NORTH CAROLINA7, population 114.0 with violent nan and property 7.0
+      [Warning] Ignoring Jacksonville, NORTH CAROLINA7, population 67293.0 with violent nan and property 1961.0
+      [Warning] Ignoring Jefferson, NORTH CAROLINA7, population 1542.0 with violent nan and property 17.0
+      [Warning] Ignoring Jonesville, NORTH CAROLINA7, population 2240.0 with violent nan and property 109.0
+      [Warning] Ignoring Kannapolis, NORTH CAROLINA7, population 48754.0 with violent nan and property 980.0
+      [Warning] Ignoring Kernersville, NORTH CAROLINA7, population 24222.0 with violent nan and property 1249.0
+      [Warning] Ignoring Kill Devil Hills, NORTH CAROLINA7, population 7194.0 with violent nan and property 444.0
+      [Warning] Ignoring King, NORTH CAROLINA7, population 7046.0 with violent nan and property 269.0
+      [Warning] Ignoring Kings Mountain, NORTH CAROLINA7, population 10824.0 with violent nan and property 362.0
+      [Warning] Ignoring Kinston, NORTH CAROLINA7, population 20791.0 with violent nan and property 1219.0
+      [Warning] Ignoring Kitty Hawk, NORTH CAROLINA7, population 3507.0 with violent nan and property 184.0
+      [Warning] Ignoring Knightdale, NORTH CAROLINA7, population 15423.0 with violent nan and property 269.0
+      [Warning] Ignoring Lake Lure, NORTH CAROLINA7, population 1178.0 with violent nan and property 35.0
+      [Warning] Ignoring Laurel Park, NORTH CAROLINA7, population 2344.0 with violent nan and property 11.0
+      [Warning] Ignoring Leland, NORTH CAROLINA7, population 19786.0 with violent nan and property 349.0
+      [Warning] Ignoring Lenoir, NORTH CAROLINA7, population 17932.0 with violent nan and property 791.0
+      [Warning] Ignoring Lincolnton, NORTH CAROLINA7, population 10823.0 with violent nan and property 369.0
+      [Warning] Ignoring Long View, NORTH CAROLINA7, population 4900.0 with violent nan and property 224.0
+      [Warning] Ignoring Louisburg, NORTH CAROLINA7, population 3576.0 with violent nan and property 110.0
+      [Warning] Ignoring Maiden, NORTH CAROLINA7, population 3403.0 with violent nan and property 117.0
+      [Warning] Ignoring Manteo, NORTH CAROLINA7, population 1421.0 with violent nan and property 68.0
+      [Warning] Ignoring Marion, NORTH CAROLINA7, population 7819.0 with violent nan and property 630.0
+      [Warning] Ignoring Mars Hill, NORTH CAROLINA7, population 2239.0 with violent nan and property 10.0
+      [Warning] Ignoring Marshville, NORTH CAROLINA7, population 2692.0 with violent nan and property 137.0
+      [Warning] Ignoring Matthews, NORTH CAROLINA7, population 32255.0 with violent nan and property 1005.0
+      [Warning] Ignoring Maxton, NORTH CAROLINA7, population 2434.0 with violent nan and property 168.0
+      [Warning] Ignoring Mayodan, NORTH CAROLINA7, population 2445.0 with violent nan and property 163.0
+      [Warning] Ignoring Maysville, NORTH CAROLINA7, population 973.0 with violent nan and property 16.0
+      [Warning] Ignoring Mebane, NORTH CAROLINA7, population 14619.0 with violent nan and property 579.0
+      [Warning] Ignoring Mint Hill, NORTH CAROLINA7, population 26868.0 with violent nan and property 467.0
+      [Warning] Ignoring Mocksville, NORTH CAROLINA7, population 5302.0 with violent nan and property 219.0
+      [Warning] Ignoring Mooresville, NORTH CAROLINA7, population 37049.0 with violent nan and property 998.0
+      [Warning] Ignoring Morehead City, NORTH CAROLINA7, population 9520.0 with violent nan and property 462.0
+      [Warning] Ignoring Morrisville, NORTH CAROLINA7, population 25904.0 with violent nan and property 411.0
+      [Warning] Ignoring Mount Airy, NORTH CAROLINA7, population 10338.0 with violent nan and property 448.0
+      [Warning] Ignoring Mount Holly, NORTH CAROLINA7, population 14640.0 with violent nan and property 261.0
+      [Warning] Ignoring Mount Olive, NORTH CAROLINA7, population 4760.0 with violent nan and property 109.0
+      [Warning] Ignoring Murfreesboro, NORTH CAROLINA7, population 3057.0 with violent nan and property 84.0
+      [Warning] Ignoring Murphy, NORTH CAROLINA7, population 1648.0 with violent nan and property 133.0
+      [Warning] Ignoring Nags Head, NORTH CAROLINA7, population 2943.0 with violent nan and property 207.0
+      [Warning] Ignoring New Bern, NORTH CAROLINA7, population 30191.0 with violent nan and property 1005.0
+      [Warning] Ignoring Newport, NORTH CAROLINA7, population 4776.0 with violent nan and property 77.0
+      [Warning] Ignoring Newton, NORTH CAROLINA7, population 13059.0 with violent nan and property 451.0
+      [Warning] Ignoring North Wilkesboro, NORTH CAROLINA7, population 4228.0 with violent nan and property 151.0
+      [Warning] Ignoring Oak Island, NORTH CAROLINA7, population 7883.0 with violent nan and property 233.0
+      [Warning] Ignoring Oxford, NORTH CAROLINA7, population 8887.0 with violent nan and property 427.0
+      [Warning] Ignoring Pinebluff, NORTH CAROLINA7, population 1491.0 with violent nan and property 22.0
+      [Warning] Ignoring Pinehurst, NORTH CAROLINA7, population 16145.0 with violent nan and property 130.0
+      [Warning] Ignoring Pine Knoll Shores, NORTH CAROLINA7, population 1359.0 with violent nan and property 17.0
+      [Warning] Ignoring Pine Level, NORTH CAROLINA7, population 1922.0 with violent nan and property 34.0
+      [Warning] Ignoring Pineville, NORTH CAROLINA7, population 8788.0 with violent nan and property 1236.0
+      [Warning] Ignoring Pittsboro, NORTH CAROLINA7, population 4355.0 with violent nan and property 88.0
+      [Warning] Ignoring Plymouth, NORTH CAROLINA7, population 3551.0 with violent nan and property 184.0
+      [Warning] Ignoring Raeford, NORTH CAROLINA7, population 5057.0 with violent nan and property 191.0
+      [Warning] Ignoring Ramseur, NORTH CAROLINA7, population 1713.0 with violent nan and property 90.0
+      [Warning] Ignoring Reidsville, NORTH CAROLINA7, population 13900.0 with violent nan and property 749.0
+      [Warning] Ignoring Richlands, NORTH CAROLINA7, population 1702.0 with violent nan and property 28.0
+      [Warning] Ignoring Roanoke Rapids, NORTH CAROLINA7, population 15083.0 with violent nan and property 850.0
+      [Warning] Ignoring Robbins, NORTH CAROLINA7, population 1189.0 with violent nan and property 45.0
+      [Warning] Ignoring Robersonville, NORTH CAROLINA7, population 1402.0 with violent nan and property 35.0
+      [Warning] Ignoring Rockingham, NORTH CAROLINA7, population 9005.0 with violent nan and property 754.0
+      [Warning] Ignoring Rockwell, NORTH CAROLINA7, population 2148.0 with violent nan and property 53.0
+      [Warning] Ignoring Rocky Mount, NORTH CAROLINA7, population 55098.0 with violent nan and property 1984.0
+      [Warning] Ignoring Rolesville, NORTH CAROLINA7, population 7709.0 with violent nan and property 107.0
+      [Warning] Ignoring Rowland, NORTH CAROLINA7, population 1043.0 with violent nan and property 81.0
+      [Warning] Ignoring Rutherfordton, NORTH CAROLINA7, population 4134.0 with violent nan and property 146.0
+      [Warning] Ignoring Selma, NORTH CAROLINA7, population 6678.0 with violent nan and property 287.0
+      [Warning] Ignoring Shallotte, NORTH CAROLINA7, population 4050.0 with violent nan and property 171.0
+      [Warning] Ignoring Siler City, NORTH CAROLINA7, population 8531.0 with violent nan and property 369.0
+      [Warning] Ignoring Smithfield, NORTH CAROLINA7, population 12489.0 with violent nan and property 568.0
+      [Warning] Ignoring Snow Hill, NORTH CAROLINA7, population 1551.0 with violent nan and property 56.0
+      [Warning] Ignoring Southern Pines, NORTH CAROLINA7, population 14025.0 with violent nan and property 471.0
+      [Warning] Ignoring Spencer, NORTH CAROLINA7, population 3315.0 with violent nan and property 123.0
+      [Warning] Ignoring Spruce Pine, NORTH CAROLINA7, population 2095.0 with violent nan and property 39.0
+      [Warning] Ignoring Stallings, NORTH CAROLINA7, population 15656.0 with violent nan and property 181.0
+      [Warning] Ignoring Surf City, NORTH CAROLINA7, population 2342.0 with violent nan and property 143.0
+      [Warning] Ignoring Swansboro, NORTH CAROLINA7, population 3261.0 with violent nan and property 107.0
+      [Warning] Ignoring Sylva, NORTH CAROLINA7, population 2653.0 with violent nan and property 268.0
+      [Warning] Ignoring Tabor City, NORTH CAROLINA7, population 4225.0 with violent nan and property 144.0
+      [Warning] Ignoring Tarboro, NORTH CAROLINA7, population 10924.0 with violent nan and property 359.0
+      [Warning] Ignoring Thomasville, NORTH CAROLINA7, population 27071.0 with violent nan and property 1270.0
+      [Warning] Ignoring Trent Woods, NORTH CAROLINA7, population 4162.0 with violent nan and property 29.0
+      [Warning] Ignoring Troutman, NORTH CAROLINA7, population 2610.0 with violent nan and property 83.0
+      [Warning] Ignoring Troy, NORTH CAROLINA7, population 3399.0 with violent nan and property 102.0
+      [Warning] Ignoring Tryon, NORTH CAROLINA7, population 1618.0 with violent nan and property 34.0
+      [Warning] Ignoring Valdese, NORTH CAROLINA7, population 4477.0 with violent nan and property 44.0
+      [Warning] Ignoring Wadesboro, NORTH CAROLINA7, population 5413.0 with violent nan and property 319.0
+      [Warning] Ignoring Wake Forest, NORTH CAROLINA7, population 42019.0 with violent nan and property 741.0
+      [Warning] Ignoring Warsaw, NORTH CAROLINA7, population 3160.0 with violent nan and property 116.0
+      [Warning] Ignoring Washington, NORTH CAROLINA7, population 9793.0 with violent nan and property 515.0
+      [Warning] Ignoring Waxhaw, NORTH CAROLINA7, population 15089.0 with violent nan and property 170.0
+      [Warning] Ignoring Waynesville, NORTH CAROLINA7, population 9977.0 with violent nan and property 516.0
+      [Warning] Ignoring Weaverville, NORTH CAROLINA7, population 4034.0 with violent nan and property 131.0
+      [Warning] Ignoring Weldon, NORTH CAROLINA7, population 1563.0 with violent nan and property 59.0
+      [Warning] Ignoring Wendell, NORTH CAROLINA7, population 6901.0 with violent nan and property 94.0
+      [Warning] Ignoring West Jefferson, NORTH CAROLINA7, population 1305.0 with violent nan and property 80.0
+      [Warning] Ignoring Whispering Pines, NORTH CAROLINA7, population 3342.0 with violent nan and property 18.0
+      [Warning] Ignoring Whiteville, NORTH CAROLINA7, population 5534.0 with violent nan and property 440.0
+      [Warning] Ignoring Wilkesboro, NORTH CAROLINA7, population 3554.0 with violent nan and property 293.0
+      [Warning] Ignoring Williamston, NORTH CAROLINA7, population 5438.0 with violent nan and property 334.0
+      [Warning] Ignoring Wilmington, NORTH CAROLINA7, population 119422.0 with violent nan and property 4318.0
+      [Warning] Ignoring Windsor, NORTH CAROLINA7, population 3795.0 with violent nan and property 38.0
+      [Warning] Ignoring Winterville, NORTH CAROLINA7, population 9476.0 with violent nan and property 114.0
+      [Warning] Ignoring Woodfin, NORTH CAROLINA7, population 6444.0 with violent nan and property 121.0
+      [Warning] Ignoring Wrightsville Beach, NORTH CAROLINA7, population 2574.0 with violent nan and property 115.0
+      [Warning] Ignoring Yadkinville, NORTH CAROLINA7, population 2918.0 with violent nan and property 100.0
+      [Warning] Ignoring Youngsville, NORTH CAROLINA7, population 1317.0 with violent nan and property 39.0
+      [Warning] Ignoring Zebulon, NORTH CAROLINA7, population 5288.0 with violent nan and property 222.0
+   Processed NORTH CAROLINA7 for year 2017!
+   Processed NORTH DAKOTA for year 2017!
+      [Warning] Ignoring Bedford Heights7, OHIO, population 10558.0 with violent nan and property 255.0
+      [Warning] Ignoring Brooklyn7, OHIO, population 10809.0 with violent nan and property 677.0
+      [Warning] Ignoring Brookville7, OHIO, population 5896.0 with violent nan and property 67.0
+      [Warning] Ignoring Cambridge7, OHIO, population 10391.0 with violent nan and property 456.0
+      [Warning] Ignoring Chardon7, OHIO, population 5199.0 with violent nan and property 96.0
+      [Warning] Ignoring Delphos7, OHIO, population 6979.0 with violent nan and property 159.0
+      [Warning] Ignoring Fremont7, OHIO, population 16241.0 with violent nan and property 866.0
+      [Warning] Ignoring Highland Heights7, OHIO, population 8434.0 with violent nan and property 132.0
+      [Warning] Ignoring Kirtland Hills7, OHIO, population 638.0 with violent nan and property 0.0
+      [Warning] Ignoring Mariemont7, OHIO, population 3435.0 with violent nan and property 41.0
+      [Warning] Ignoring Middlefield7, OHIO, population 2715.0 with violent nan and property 86.0
+      [Warning] Ignoring Mogadore7, OHIO, population 3829.0 with violent nan and property 49.0
+      [Warning] Ignoring Newcomerstown7, OHIO, population 3767.0 with violent nan and property 69.0
+      [Warning] Ignoring South Point7, OHIO, population 3935.0 with violent nan and property 42.0
+      [Warning] Ignoring Tallmadge7, OHIO, population 17529.0 with violent nan and property 334.0
+      [Warning] Ignoring Tiffin7, OHIO, population 17481.0 with violent nan and property 390.0
+      [Warning] Ignoring Toledo6, 8, 10, OHIO, population 277116.0 with violent nan and property 11095.0
+      [Warning] Ignoring Valley View, Cuyahoga County7, OHIO, population 2007.0 with violent nan and property 47.0
+      [Warning] Ignoring Walton Hills7, OHIO, population 2308.0 with violent nan and property 19.0
+   Processed OHIO for year 2017!
+   Processed OKLAHOMA for year 2017!
+      [Warning] Ignoring Newberg-Dundee8, OREGON, population 26769.0 with violent 38.0 and property nan
+      [Warning] Ignoring Nyssa7, OREGON, population 3174.0 with violent nan and property 76.0
+      [Warning] Ignoring Sunriver, OREGON, population nan with violent 4.0 and property 67.0
+   Processed OREGON for year 2017!
+   Processed PENNSYLVANIA for year 2017!
+   Processed RHODE ISLAND for year 2017!
+      [Warning] Ignoring Abbeville5, SOUTH CAROLINA, population 5153.0 with violent 33.0 and property nan
+      [Warning] Ignoring Aiken8, SOUTH CAROLINA, population 31158.0 with violent 165.0 and property nan
+   Processed SOUTH CAROLINA for year 2017!
+   Processed SOUTH DAKOTA for year 2017!
+   Processed TENNESSEE for year 2017!
+      [Warning] Ignoring Abilene5, 6, TEXAS, population 122981.0 with violent 636.0 and property nan
+      [Warning] Ignoring Cuero5, TEXAS, population 8572.0 with violent 109.0 and property nan
+      [Warning] Ignoring Kaufman5, 6, TEXAS, population 7276.0 with violent 28.0 and property nan
+      [Warning] Ignoring Lumberton5, TEXAS, population 12690.0 with violent 17.0 and property nan
+   Processed TEXAS for year 2017!
+   Processed UTAH for year 2017!
+   Processed VERMONT for year 2017!
+   Processed VIRGINIA for year 2017!
+      [Warning] Ignoring Auburn5, WASHINGTON, population 78718.0 with violent 376.0 and property nan
+      [Warning] Ignoring Burien7, WASHINGTON, population 51479.0 with violent nan and property 2089.0
+      [Warning] Ignoring Carnation7, WASHINGTON, population 2032.0 with violent nan and property 31.0
+      [Warning] Ignoring Covington7, WASHINGTON, population 21001.0 with violent nan and property 716.0
+      [Warning] Ignoring Kenmore7, WASHINGTON, population 22673.0 with violent nan and property 312.0
+      [Warning] Ignoring Maple Valley7, WASHINGTON, population 26214.0 with violent nan and property 289.0
+      [Warning] Ignoring Newcastle7, WASHINGTON, population 11775.0 with violent nan and property 241.0
+      [Warning] Ignoring Sammamish7, WASHINGTON, population 64857.0 with violent nan and property 442.0
+      [Warning] Ignoring SeaTac7, WASHINGTON, population 29200.0 with violent nan and property 1504.0
+      [Warning] Ignoring Shoreline7, WASHINGTON, population 55703.0 with violent nan and property 1424.0
+      [Warning] Ignoring Woodinville7, WASHINGTON, population 12181.0 with violent nan and property 364.0
+   Processed WASHINGTON for year 2017!
+      [Warning] Ignoring St. Albans8, WEST VIRGINIA, population 10476.0 with violent 16.0 and property nan
+   Processed WEST VIRGINIA for year 2017!
+   Processed WISCONSIN for year 2017!
+   Processed WYOMING for year 2017!
+   Processed ALABAMA for year 2018!
+   Processed ALASKA for year 2018!
+   Processed ARIZONA for year 2018!
+      [Warning] Ignoring Benton5, ARKANSAS, population 36556.0 with violent 182.0 and property nan
+      [Warning] Ignoring El Dorado5, ARKANSAS, population 17916.0 with violent nan and property 1069.0
+      [Warning] Ignoring Magnolia5, ARKANSAS, population 11425.0 with violent 22.0 and property nan
+      [Warning] Ignoring Siloam Springs5, ARKANSAS, population 17102.0 with violent 78.0 and property nan
+   Processed ARKANSAS for year 2018!
+   Processed CALIFORNIA for year 2018!
+      [Warning] Ignoring Frederick6, COLORADO, population 13390.0 with violent 4.0 and property nan
+      [Warning] Ignoring Louisville5, COLORADO, population 21545.0 with violent 16.0 and property nan
+   Processed COLORADO for year 2018!
+   Processed CONNECTICUT for year 2018!
+   Processed DELAWARE for year 2018!
+   Processed DISTRICT OF COLUMBIA for year 2018!
+   Processed FLORIDA for year 2018!
+   Processed GEORGIA for year 2018!
+   Processed HAWAII for year 2018!
+   Processed IDAHO for year 2018!
+      [Warning] Ignoring Chicago Heights6, ILLINOIS, population 29832.0 with violent 260.0 and property nan
+      [Warning] Ignoring Coal City5, ILLINOIS, population 5338.0 with violent 5.0 and property nan
+      [Warning] Ignoring East St. Louis6, ILLINOIS, population 26630.0 with violent 317.0 and property nan
+      [Warning] Ignoring Naperville6, ILLINOIS, population 148457.0 with violent 102.0 and property nan
+      [Warning] Ignoring Oak Park5, ILLINOIS, population 52313.0 with violent nan and property nan
+      [Warning] Ignoring Pekin6, ILLINOIS, population 32541.0 with violent 136.0 and property nan
+      [Warning] Ignoring Sauk Village5, ILLINOIS, population 10436.0 with violent nan and property 271.0
+      [Warning] Ignoring Waukegan5,6, ILLINOIS, population 87530.0 with violent 355.0 and property nan
+   Processed ILLINOIS for year 2018!
+      [Warning] Ignoring Frankfort5, INDIANA, population 15744.0 with violent nan and property 469.0
+      [Warning] Ignoring Highland5, INDIANA, population 22428.0 with violent nan and property 567.0
+   Processed INDIANA for year 2018!
+      [Warning] Ignoring nan, IOWA7, population nan with violent nan and property nan
+   Processed IOWA7 for year 2018!
+      [Warning] Ignoring Burlington5, KANSAS, population 2537.0 with violent 9.0 and property nan
+      [Warning] Ignoring Herington5, KANSAS, population 2305.0 with violent 5.0 and property nan
+      [Warning] Ignoring Independence5, KANSAS, population 8629.0 with violent 62.0 and property nan
+      [Warning] Ignoring McPherson6, KANSAS, population 13211.0 with violent 23.0 and property nan
+   Processed KANSAS for year 2018!
+      [Warning] Ignoring Bardstown5, KENTUCKY, population 13244.0 with violent 26.0 and property nan
+      [Warning] Ignoring Franklin5, KENTUCKY, population 8829.0 with violent 22.0 and property nan
+      [Warning] Ignoring Henderson5, KENTUCKY, population 28618.0 with violent 95.0 and property nan
+      [Warning] Ignoring Jeffersontown5, KENTUCKY, population 27443.0 with violent 44.0 and property nan
+      [Warning] Ignoring Madisonville5, KENTUCKY, population 18959.0 with violent 37.0 and property nan
+      [Warning] Ignoring Murray5, KENTUCKY, population 19402.0 with violent 23.0 and property nan
+      [Warning] Ignoring Paducah5, KENTUCKY, population 24933.0 with violent 93.0 and property nan
+      [Warning] Ignoring Radcliff5, KENTUCKY, population 22576.0 with violent 82.0 and property nan
+      [Warning] Ignoring St. Matthews5, KENTUCKY, population 18228.0 with violent 37.0 and property nan
+   Processed KENTUCKY for year 2018!
+      [Warning] Ignoring Rayville6, LOUISIANA, population 3557.0 with violent nan and property nan
+   Processed LOUISIANA for year 2018!
+   Processed MAINE for year 2018!
+      [Warning] Ignoring Baltimore City Sheriff, MARYLAND, population nan with violent 0.0 and property 0.0
+   Processed MARYLAND for year 2018!
+   Processed MASSACHUSETTS for year 2018!
+      [Warning] Ignoring Lyon Township5, MICHIGAN, population 20815.0 with violent 14.0 and property nan
+   Processed MICHIGAN for year 2018!
+   Processed MINNESOTA for year 2018!
+      [Warning] Ignoring Batesville6, MISSISSIPPI, population 7212.0 with violent nan and property 321.0
+      [Warning] Ignoring Booneville8, MISSISSIPPI, population 8688.0 with violent nan and property 124.0
+      [Warning] Ignoring Florence8, MISSISSIPPI, population 4468.0 with violent nan and property 15.0
+      [Warning] Ignoring Fulton8, MISSISSIPPI, population 4019.0 with violent nan and property 166.0
+      [Warning] Ignoring Hattiesburg4,5, MISSISSIPPI, population 46461.0 with violent 92.0 and property nan
+      [Warning] Ignoring Iuka8, MISSISSIPPI, population 2955.0 with violent nan and property 65.0
+      [Warning] Ignoring Jackson8, MISSISSIPPI, population 166024.0 with violent nan and property 7855.0
+      [Warning] Ignoring Leakesville8, MISSISSIPPI, population 896.0 with violent nan and property 4.0
+      [Warning] Ignoring Oxford5, MISSISSIPPI, population 24369.0 with violent nan and property 666.0
+      [Warning] Ignoring Starkville4,6, MISSISSIPPI, population 25559.0 with violent 43.0 and property nan
+      [Warning] Ignoring Summit8, MISSISSIPPI, population 1593.0 with violent nan and property 41.0
+      [Warning] Ignoring Vicksburg8, MISSISSIPPI, population 22298.0 with violent nan and property 1140.0
+      [Warning] Ignoring Waveland8, MISSISSIPPI, population 6343.0 with violent nan and property 328.0
+      [Warning] Ignoring Wiggins8, MISSISSIPPI, population 4561.0 with violent nan and property 221.0
+   Processed MISSISSIPPI for year 2018!
+      [Warning] Ignoring Crestwood9, MISSOURI, population 11864.0 with violent 15.0 and property nan
+      [Warning] Ignoring Hollister6, MISSOURI, population 4561.0 with violent 4.0 and property nan
+      [Warning] Ignoring Pleasant Hill6, MISSOURI, population 8606.0 with violent nan and property 119.0
+      [Warning] Ignoring St. Joseph4,8, MISSOURI, population 76409.0 with violent nan and property 3768.0
+      [Warning] Ignoring Willow Springs5, MISSOURI, population 2110.0 with violent nan and property 77.0
+   Processed MISSOURI for year 2018!
+   Processed MONTANA for year 2018!
+   Processed NEBRASKA for year 2018!
+   Processed NEVADA for year 2018!
+   Processed NEW HAMPSHIRE for year 2018!
+   Processed NEW JERSEY for year 2018!
+   Processed NEW MEXICO for year 2018!
+      [Warning] Ignoring Nissequogue Village5, NEW YORK, population 1751.0 with violent 0.0 and property nan
+   Processed NEW YORK for year 2018!
+      [Warning] Ignoring Aberdeen, NORTH CAROLINA8, population 7821.0 with violent nan and property 232.0
+      [Warning] Ignoring Albemarle, NORTH CAROLINA8, population 15991.0 with violent nan and property 853.0
+      [Warning] Ignoring Apex, NORTH CAROLINA8, population 52577.0 with violent nan and property 663.0
+      [Warning] Ignoring Archdale, NORTH CAROLINA8, population 11529.0 with violent nan and property 235.0
+      [Warning] Ignoring Asheboro, NORTH CAROLINA8, population 25922.0 with violent nan and property 1168.0
+      [Warning] Ignoring Asheville, NORTH CAROLINA8, population 93186.0 with violent nan and property 4798.0
+      [Warning] Ignoring Atlantic Beach, NORTH CAROLINA8, population 1493.0 with violent nan and property 92.0
+      [Warning] Ignoring Ayden, NORTH CAROLINA8, population 5162.0 with violent nan and property 149.0
+      [Warning] Ignoring Beaufort, NORTH CAROLINA8, population 4178.0 with violent nan and property 135.0
+      [Warning] Ignoring Belmont, NORTH CAROLINA8, population 12331.0 with violent nan and property 550.0
+      [Warning] Ignoring Benson, NORTH CAROLINA8, population 3795.0 with violent nan and property 154.0
+      [Warning] Ignoring Biltmore Forest, NORTH CAROLINA8, population 1432.0 with violent nan and property 17.0
+      [Warning] Ignoring Biscoe, NORTH CAROLINA8, population 1675.0 with violent nan and property 195.0
+      [Warning] Ignoring Blowing Rock, NORTH CAROLINA8, population 1267.0 with violent nan and property 21.0
+      [Warning] Ignoring Boone, NORTH CAROLINA8, population 19524.0 with violent nan and property 289.0
+      [Warning] Ignoring Brevard, NORTH CAROLINA8, population 7921.0 with violent nan and property 151.0
+      [Warning] Ignoring Burgaw, NORTH CAROLINA8, population 4147.0 with violent nan and property 155.0
+      [Warning] Ignoring Burlington, NORTH CAROLINA8, population 53385.0 with violent nan and property 1877.0
+      [Warning] Ignoring Butner, NORTH CAROLINA8, population 7803.0 with violent nan and property 177.0
+      [Warning] Ignoring Carolina Beach, NORTH CAROLINA8, population 6352.0 with violent nan and property 144.0
+      [Warning] Ignoring Carrboro, NORTH CAROLINA8, population 21841.0 with violent nan and property 407.0
+      [Warning] Ignoring Carthage, NORTH CAROLINA8, population 2488.0 with violent nan and property 80.0
+      [Warning] Ignoring Cary, NORTH CAROLINA8, population 170518.0 with violent nan and property 1666.0
+      [Warning] Ignoring Chadbourn, NORTH CAROLINA8, population 1730.0 with violent nan and property 63.0
+      [Warning] Ignoring Charlotte-Mecklenburg, NORTH CAROLINA8, population 931235.0 with violent nan and property 34881.0
+      [Warning] Ignoring China Grove, NORTH CAROLINA8, population 4209.0 with violent nan and property 80.0
+      [Warning] Ignoring Chocowinity, NORTH CAROLINA8, population 792.0 with violent nan and property 16.0
+      [Warning] Ignoring Clayton, NORTH CAROLINA8, population 22258.0 with violent nan and property 417.0
+      [Warning] Ignoring Cleveland, NORTH CAROLINA8, population 876.0 with violent nan and property 25.0
+      [Warning] Ignoring Columbus, NORTH CAROLINA8, population 991.0 with violent nan and property 38.0
+      [Warning] Ignoring Concord, NORTH CAROLINA8, population 94022.0 with violent nan and property 1679.0
+      [Warning] Ignoring Conover, NORTH CAROLINA8, population 8391.0 with violent nan and property 299.0
+      [Warning] Ignoring Creedmoor, NORTH CAROLINA8, population 4576.0 with violent nan and property 93.0
+      [Warning] Ignoring Davidson, NORTH CAROLINA8, population 12954.0 with violent nan and property 127.0
+      [Warning] Ignoring Drexel, NORTH CAROLINA8, population 1858.0 with violent nan and property 33.0
+      [Warning] Ignoring Duck, NORTH CAROLINA8, population 387.0 with violent nan and property 32.0
+      [Warning] Ignoring Durham, NORTH CAROLINA8, population 273759.0 with violent nan and property 9755.0
+      [Warning] Ignoring Eden, NORTH CAROLINA8, population 14952.0 with violent nan and property 530.0
+      [Warning] Ignoring Edenton, NORTH CAROLINA8, population 4671.0 with violent nan and property 145.0
+      [Warning] Ignoring Elizabeth City, NORTH CAROLINA8, population 17629.0 with violent nan and property 939.0
+      [Warning] Ignoring Emerald Isle, NORTH CAROLINA8, population 3685.0 with violent nan and property 189.0
+      [Warning] Ignoring Farmville, NORTH CAROLINA8, population 4712.0 with violent nan and property 129.0
+      [Warning] Ignoring Fletcher, NORTH CAROLINA8, population 8392.0 with violent nan and property 128.0
+      [Warning] Ignoring Forest City, NORTH CAROLINA8, population 7175.0 with violent nan and property 555.0
+      [Warning] Ignoring Four Oaks, NORTH CAROLINA8, population 2106.0 with violent nan and property 56.0
+      [Warning] Ignoring Gastonia, NORTH CAROLINA8, population 77316.0 with violent nan and property 3839.0
+      [Warning] Ignoring Gibsonville, NORTH CAROLINA8, population 7193.0 with violent nan and property 70.0
+      [Warning] Ignoring Granite Falls, NORTH CAROLINA8, population 4653.0 with violent nan and property 293.0
+      [Warning] Ignoring Greensboro, NORTH CAROLINA8, population 293298.0 with violent nan and property 9831.0
+      [Warning] Ignoring Greenville, NORTH CAROLINA8, population 93235.0 with violent nan and property 2707.0
+      [Warning] Ignoring Havelock, NORTH CAROLINA8, population 19870.0 with violent nan and property 530.0
+      [Warning] Ignoring Henderson, NORTH CAROLINA8, population 14780.0 with violent nan and property 804.0
+      [Warning] Ignoring Hickory, NORTH CAROLINA8, population 40701.0 with violent nan and property 1884.0
+      [Warning] Ignoring Highlands, NORTH CAROLINA8, population 942.0 with violent nan and property 54.0
+      [Warning] Ignoring High Point6, NORTH CAROLINA8, population 112526.0 with violent nan and property 3682.0
+      [Warning] Ignoring Hillsborough, NORTH CAROLINA8, population 7323.0 with violent nan and property 310.0
+      [Warning] Ignoring Holly Ridge, NORTH CAROLINA8, population 2584.0 with violent nan and property 36.0
+      [Warning] Ignoring Holly Springs, NORTH CAROLINA8, population 37008.0 with violent nan and property 267.0
+      [Warning] Ignoring Hope Mills, NORTH CAROLINA8, population 16219.0 with violent nan and property 681.0
+      [Warning] Ignoring Huntersville, NORTH CAROLINA8, population 57677.0 with violent nan and property 884.0
+      [Warning] Ignoring Jacksonville, NORTH CAROLINA8, population 71715.0 with violent nan and property 1763.0
+      [Warning] Ignoring Jonesville, NORTH CAROLINA8, population 2226.0 with violent nan and property 123.0
+      [Warning] Ignoring Kannapolis, NORTH CAROLINA8, population 49750.0 with violent nan and property 968.0
+      [Warning] Ignoring Kernersville, NORTH CAROLINA8, population 24571.0 with violent nan and property 970.0
+      [Warning] Ignoring King, NORTH CAROLINA8, population 6911.0 with violent nan and property 302.0
+      [Warning] Ignoring Kings Mountain, NORTH CAROLINA8, population 10808.0 with violent nan and property 400.0
+      [Warning] Ignoring Kinston, NORTH CAROLINA8, population 20341.0 with violent nan and property 1305.0
+      [Warning] Ignoring Kitty Hawk, NORTH CAROLINA8, population 3529.0 with violent nan and property 125.0
+      [Warning] Ignoring Lake Lure, NORTH CAROLINA8, population 1148.0 with violent nan and property 5.0
+      [Warning] Ignoring Leland, NORTH CAROLINA8, population 21008.0 with violent nan and property 320.0
+      [Warning] Ignoring Lenoir, NORTH CAROLINA8, population 17904.0 with violent nan and property 845.0
+      [Warning] Ignoring Lexington, NORTH CAROLINA8, population 18754.0 with violent nan and property 489.0
+      [Warning] Ignoring Lillington, NORTH CAROLINA8, population 3639.0 with violent nan and property 130.0
+      [Warning] Ignoring Louisburg, NORTH CAROLINA8, population 3549.0 with violent nan and property 137.0
+      [Warning] Ignoring Madison, NORTH CAROLINA8, population 2119.0 with violent nan and property 57.0
+      [Warning] Ignoring Mars Hill, NORTH CAROLINA8, population 2157.0 with violent nan and property 14.0
+      [Warning] Ignoring Marshville, NORTH CAROLINA8, population 2728.0 with violent nan and property 117.0
+      [Warning] Ignoring Matthews, NORTH CAROLINA8, population 32873.0 with violent nan and property 949.0
+      [Warning] Ignoring Mayodan, NORTH CAROLINA8, population 2399.0 with violent nan and property 113.0
+      [Warning] Ignoring Maysville, NORTH CAROLINA8, population 950.0 with violent nan and property 13.0
+      [Warning] Ignoring Mint Hill, NORTH CAROLINA8, population 27375.0 with violent nan and property 471.0
+      [Warning] Ignoring Mocksville, NORTH CAROLINA8, population 5303.0 with violent nan and property 165.0
+      [Warning] Ignoring Mooresville, NORTH CAROLINA8, population 38340.0 with violent nan and property 1018.0
+      [Warning] Ignoring Morehead City, NORTH CAROLINA8, population 9393.0 with violent nan and property 396.0
+      [Warning] Ignoring Mount Gilead, NORTH CAROLINA8, population 1159.0 with violent nan and property 61.0
+      [Warning] Ignoring Mount Holly, NORTH CAROLINA8, population 15940.0 with violent nan and property 302.0
+      [Warning] Ignoring Murfreesboro, NORTH CAROLINA8, population 2984.0 with violent nan and property 61.0
+      [Warning] Ignoring Murphy, NORTH CAROLINA8, population 1640.0 with violent nan and property 175.0
+      [Warning] Ignoring Nags Head, NORTH CAROLINA8, population 2925.0 with violent nan and property 138.0
+      [Warning] Ignoring New Bern, NORTH CAROLINA8, population 29600.0 with violent nan and property 940.0
+      [Warning] Ignoring Newport, NORTH CAROLINA8, population 4691.0 with violent nan and property 50.0
+      [Warning] Ignoring Newton, NORTH CAROLINA8, population 13121.0 with violent nan and property 453.0
+      [Warning] Ignoring North Topsail Beach, NORTH CAROLINA8, population 723.0 with violent nan and property 35.0
+      [Warning] Ignoring North Wilkesboro, NORTH CAROLINA8, population 4277.0 with violent nan and property 125.0
+      [Warning] Ignoring Ocean Isle Beach, NORTH CAROLINA8, population 624.0 with violent nan and property 45.0
+      [Warning] Ignoring Oxford, NORTH CAROLINA8, population 8793.0 with violent nan and property 411.0
+      [Warning] Ignoring Pilot Mountain, NORTH CAROLINA8, population 1427.0 with violent nan and property 42.0
+      [Warning] Ignoring Pinebluff, NORTH CAROLINA8, population 1515.0 with violent nan and property 19.0
+      [Warning] Ignoring Pinehurst, NORTH CAROLINA8, population 16213.0 with violent nan and property 111.0
+      [Warning] Ignoring Pine Knoll Shores, NORTH CAROLINA8, population 1330.0 with violent nan and property 21.0
+      [Warning] Ignoring Pittsboro, NORTH CAROLINA8, population 4289.0 with violent nan and property 114.0
+      [Warning] Ignoring Plymouth, NORTH CAROLINA8, population 3448.0 with violent nan and property 146.0
+      [Warning] Ignoring Raeford, NORTH CAROLINA8, population 4976.0 with violent nan and property 150.0
+      [Warning] Ignoring Ramseur, NORTH CAROLINA8, population 1690.0 with violent nan and property 78.0
+      [Warning] Ignoring Randleman, NORTH CAROLINA8, population 4133.0 with violent nan and property 141.0
+      [Warning] Ignoring Reidsville, NORTH CAROLINA8, population 13774.0 with violent nan and property 693.0
+      [Warning] Ignoring Richlands, NORTH CAROLINA8, population 1719.0 with violent nan and property 21.0
+      [Warning] Ignoring Robbins, NORTH CAROLINA8, population 1212.0 with violent nan and property 26.0
+      [Warning] Ignoring Rockingham, NORTH CAROLINA8, population 8754.0 with violent nan and property 602.0
+      [Warning] Ignoring Rockwell, NORTH CAROLINA8, population 2146.0 with violent nan and property 27.0
+      [Warning] Ignoring Rocky Mount, NORTH CAROLINA8, population 54085.0 with violent nan and property 1577.0
+      [Warning] Ignoring Rowland, NORTH CAROLINA8, population 1010.0 with violent nan and property 47.0
+      [Warning] Ignoring Roxboro, NORTH CAROLINA8, population 8284.0 with violent nan and property 318.0
+      [Warning] Ignoring Rutherfordton, NORTH CAROLINA8, population 4014.0 with violent nan and property 158.0
+      [Warning] Ignoring Salisbury, NORTH CAROLINA8, population 33901.0 with violent nan and property 1579.0
+      [Warning] Ignoring Sanford, NORTH CAROLINA8, population 29483.0 with violent nan and property 782.0
+      [Warning] Ignoring Scotland Neck, NORTH CAROLINA8, population 1880.0 with violent nan and property 42.0
+      [Warning] Ignoring Selma, NORTH CAROLINA8, population 6776.0 with violent nan and property 239.0
+      [Warning] Ignoring Shallotte, NORTH CAROLINA8, population 4183.0 with violent nan and property 229.0
+      [Warning] Ignoring Siler City, NORTH CAROLINA8, population 8225.0 with violent nan and property 369.0
+      [Warning] Ignoring Smithfield, NORTH CAROLINA8, population 12507.0 with violent nan and property 454.0
+      [Warning] Ignoring Snow Hill, NORTH CAROLINA8, population 1516.0 with violent nan and property 53.0
+      [Warning] Ignoring Southern Pines, NORTH CAROLINA8, population 14271.0 with violent nan and property 312.0
+      [Warning] Ignoring Spencer, NORTH CAROLINA8, population 3254.0 with violent nan and property 99.0
+      [Warning] Ignoring Stanley, NORTH CAROLINA8, population 3727.0 with violent nan and property 123.0
+      [Warning] Ignoring Star, NORTH CAROLINA8, population 855.0 with violent nan and property 18.0
+      [Warning] Ignoring St. Pauls, NORTH CAROLINA8, population 2344.0 with violent nan and property 68.0
+      [Warning] Ignoring Surf City, NORTH CAROLINA8, population 2412.0 with violent nan and property 151.0
+      [Warning] Ignoring Swansboro, NORTH CAROLINA8, population 3292.0 with violent nan and property 127.0
+      [Warning] Ignoring Thomasville, NORTH CAROLINA8, population 26591.0 with violent nan and property 1009.0
+      [Warning] Ignoring Trent Woods, NORTH CAROLINA8, population 4064.0 with violent nan and property 18.0
+      [Warning] Ignoring Troy, NORTH CAROLINA8, population 3275.0 with violent nan and property 81.0
+      [Warning] Ignoring Valdese, NORTH CAROLINA8, population 4427.0 with violent nan and property 54.0
+      [Warning] Ignoring Wake Forest, NORTH CAROLINA8, population 44318.0 with violent nan and property 653.0
+      [Warning] Ignoring Waynesville, NORTH CAROLINA8, population 9991.0 with violent nan and property 517.0
+      [Warning] Ignoring Weaverville, NORTH CAROLINA8, population 3946.0 with violent nan and property 141.0
+      [Warning] Ignoring Whispering Pines, NORTH CAROLINA8, population 3348.0 with violent nan and property 17.0
+      [Warning] Ignoring Whiteville, NORTH CAROLINA8, population 5401.0 with violent nan and property 471.0
+      [Warning] Ignoring Wilkesboro, NORTH CAROLINA8, population 3482.0 with violent nan and property 255.0
+      [Warning] Ignoring Wilmington, NORTH CAROLINA8, population 120920.0 with violent nan and property 3639.0
+      [Warning] Ignoring Wilson, NORTH CAROLINA8, population 49367.0 with violent nan and property 1719.0
+      [Warning] Ignoring Windsor, NORTH CAROLINA8, population 3259.0 with violent nan and property 34.0
+      [Warning] Ignoring Wingate, NORTH CAROLINA8, population 4034.0 with violent nan and property 68.0
+      [Warning] Ignoring Winterville, NORTH CAROLINA8, population 9712.0 with violent nan and property 90.0
+      [Warning] Ignoring Woodfin, NORTH CAROLINA8, population 6541.0 with violent nan and property 116.0
+      [Warning] Ignoring Wrightsville Beach, NORTH CAROLINA8, population 2558.0 with violent nan and property 100.0
+      [Warning] Ignoring Yadkinville, NORTH CAROLINA8, population 2879.0 with violent nan and property 90.0
+      [Warning] Ignoring Youngsville, NORTH CAROLINA8, population 1331.0 with violent nan and property 28.0
+   Processed NORTH CAROLINA8 for year 2018!
+   Processed NORTH DAKOTA for year 2018!
+      [Warning] Ignoring Brooklyn8, OHIO, population 10759.0 with violent nan and property 566.0
+      [Warning] Ignoring Cambridge8, OHIO, population 10369.0 with violent nan and property 396.0
+      [Warning] Ignoring Delphos8, OHIO, population 6954.0 with violent nan and property 144.0
+      [Warning] Ignoring Fremont8, OHIO, population 16125.0 with violent nan and property 870.0
+      [Warning] Ignoring Highland Heights8, OHIO, population 8438.0 with violent nan and property 89.0
+      [Warning] Ignoring Middlefield8, OHIO, population 2707.0 with violent nan and property 53.0
+      [Warning] Ignoring Mogadore8, OHIO, population 3821.0 with violent nan and property 42.0
+      [Warning] Ignoring Newcomerstown8, OHIO, population 3756.0 with violent nan and property 50.0
+   Processed OHIO for year 2018!
+   Processed OKLAHOMA for year 2018!
+      [Warning] Ignoring Black Butte, OREGON, population nan with violent 0.0 and property 6.0
+      [Warning] Ignoring Nyssa4,8, OREGON, population 3166.0 with violent nan and property 82.0
+      [Warning] Ignoring Sunriver, OREGON, population nan with violent 3.0 and property 57.0
+   Processed OREGON for year 2018!
+   Processed PENNSYLVANIA for year 2018!
+   Processed RHODE ISLAND for year 2018!
+      [Warning] Ignoring Aiken6, SOUTH CAROLINA, population 30881.0 with violent 120.0 and property nan
+      [Warning] Ignoring North Myrtle Beach5, SOUTH CAROLINA, population 16688.0 with violent 105.0 and property nan
+      [Warning] Ignoring Walterboro5, SOUTH CAROLINA, population 5083.0 with violent 38.0 and property nan
+   Processed SOUTH CAROLINA for year 2018!
+   Processed SOUTH DAKOTA for year 2018!
+   Processed TENNESSEE for year 2018!
+      [Warning] Ignoring Crockett5, TEXAS, population 6470.0 with violent 33.0 and property nan
+      [Warning] Ignoring Gonzales5, TEXAS, population 7687.0 with violent nan and property 124.0
+      [Warning] Ignoring Hallsville5, TEXAS, population 4344.0 with violent 6.0 and property nan
+      [Warning] Ignoring Sanger5, TEXAS, population 8457.0 with violent 27.0 and property nan
+   Processed TEXAS for year 2018!
+   Processed UTAH for year 2018!
+   Processed VERMONT for year 2018!
+      [Warning] Ignoring Hampton6, VIRGINIA, population 133965.0 with violent 316.0 and property nan
+   Processed VIRGINIA for year 2018!
+      [Warning] Ignoring Burien4,8, WASHINGTON, population 52189.0 with violent nan and property 1900.0
+      [Warning] Ignoring Carnation4,8, WASHINGTON, population 2224.0 with violent nan and property 17.0
+      [Warning] Ignoring Covington4,8, WASHINGTON, population 21436.0 with violent nan and property 584.0
+      [Warning] Ignoring Kenmore4,8, WASHINGTON, population 23219.0 with violent nan and property 259.0
+      [Warning] Ignoring Maple Valley4,8, WASHINGTON, population 26212.0 with violent nan and property 354.0
+      [Warning] Ignoring Newcastle4,8, WASHINGTON, population 11878.0 with violent nan and property 243.0
+      [Warning] Ignoring Sammamish4,8, WASHINGTON, population 65604.0 with violent nan and property 371.0
+      [Warning] Ignoring SeaTac4,8, WASHINGTON, population 29463.0 with violent nan and property 1402.0
+      [Warning] Ignoring Shoreline4,8, WASHINGTON, population 56637.0 with violent nan and property 1100.0
+      [Warning] Ignoring Woodinville4,8, WASHINGTON, population 12153.0 with violent nan and property 308.0
+   Processed WASHINGTON for year 2018!
+   Processed WEST VIRGINIA for year 2018!
+   Processed WISCONSIN for year 2018!
+   All data processed. Fitting to dataframe...
+      ...Done!
+                 city  population  property    state  violent  year
+0           Abbeville        2950        67  ALABAMA       21  2010
+1          Adamsville        4796       294  ALABAMA       10  2010
+2             Addison         714        33  ALABAMA        0  2010
+3           Alabaster       30781       515  ALABAMA       33  2010
+4         Albertville       20588      1112  ALABAMA       81  2010
+5      Alexander City       15229       646  ALABAMA       59  2010
+6          Aliceville        2423        51  ALABAMA       12  2010
+7            Anderson         358         8  ALABAMA        1  2010
+8             Ardmore        1328        49  ALABAMA        2  2010
+9                Argo        2005        21  ALABAMA        3  2010
+10             Ariton         750        11  ALABAMA        2  2010
+11              Arley         320        17  ALABAMA        0  2010
+12            Ashford        2146        88  ALABAMA        3  2010
+13            Ashland        1900        43  ALABAMA        3  2010
+14           Ashville        2708        32  ALABAMA        8  2010
+15             Athens       24989       717  ALABAMA       34  2010
+16             Atmore       10182       335  ALABAMA       49  2010
+17            Attalla        6621       297  ALABAMA       60  2010
+18             Auburn       59651      1818  ALABAMA       83  2010
+19     Bayou La Batre        3253       172  ALABAMA       23  2010
+20         Bear Creek         993        11  ALABAMA        7  2010
+21           Bessemer       28881      2189  ALABAMA      289  2010
+22       Blountsville        2042        96  ALABAMA        4  2010
+23               Boaz        8656       496  ALABAMA       10  2010
+24           Brantley         912         0  ALABAMA        0  2010
+25              Brent        4361       106  ALABAMA       19  2010
+26            Brewton        5262       239  ALABAMA       95  2010
+27         Bridgeport        2616        76  ALABAMA        1  2010
+28          Brilliant         943        30  ALABAMA        3  2010
+29          Brookside        1343         1  ALABAMA        0  2010
+...               ...         ...       ...      ...      ...   ...
+83222          Casper       58200      1630  WYOMING      117  2018
+83223        Cheyenne       64178      2559  WYOMING      207  2018
+83224            Cody        9935       146  WYOMING       23  2018
+83225    Diamondville         761         0  WYOMING        0  2018
+83226         Douglas        6386        73  WYOMING       11  2018
+83227        Evanston       11797       212  WYOMING       11  2018
+83228      Evansville        3001        57  WYOMING       17  2018
+83229        Gillette       30659       667  WYOMING       56  2018
+83230        Glenrock        2584        17  WYOMING        2  2018
+83231     Green River       12025       102  WYOMING       14  2018
+83232        Greybull        1864        10  WYOMING        9  2018
+83233           Hanna         787         6  WYOMING        0  2018
+83234        Kemmerer        2761        17  WYOMING        2  2018
+83235          Lander        7542       257  WYOMING        0  2018
+83236         Laramie       32509       395  WYOMING       32  2018
+83237            Lusk        1539         7  WYOMING       10  2018
+83238           Mills        3966        89  WYOMING        2  2018
+83239       Moorcroft        1060         9  WYOMING        1  2018
+83240       Newcastle        3370        39  WYOMING       14  2018
+83241     Pine Bluffs        1143        17  WYOMING        1  2018
+83242          Powell        6458       113  WYOMING       17  2018
+83243         Rawlins        8806       171  WYOMING       37  2018
+83244        Riverton       11076       332  WYOMING       26  2018
+83245    Rock Springs       23405       314  WYOMING       43  2018
+83246        Saratoga        1651         8  WYOMING        1  2018
+83247        Sheridan       17919       313  WYOMING       17  2018
+83248     Thermopolis        2919        64  WYOMING       13  2018
+83249      Torrington        6699        73  WYOMING       35  2018
+83250       Wheatland        3557        56  WYOMING        3  2018
+83251         Worland        5148        69  WYOMING        2  2018
+
+[83252 rows x 6 columns]

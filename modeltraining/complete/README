@@ -1,0 +1,7 @@
+======================================================
+Dataset/Complete
+======================================================
+Complete .csv files should be placed here with
+different naming schemes, and are used to train the
+model! Each unique .csv file should be accompanied by
+a spreadsheet detailing what ACS data is included.   

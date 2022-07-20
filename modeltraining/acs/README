@@ -1,0 +1,18 @@
+======================================================
+Dataset/ACS
+======================================================
+All ACS data compiled by the dataset program, with
+different naming schemes accompanied by a spreadsheet
+that indicates what variables were used.  
+
+Contents:
+- acsquery.py
+- README
+   + pairs of:
+	- acs_iter#.csv
+	- acs_iter#_vars.txt
+
+Documentation relating to the methodology and rationale
+behind the selection of these variables for each
+iteration can be found in the documentation directory,
+outside of the modeltraining directory. 
